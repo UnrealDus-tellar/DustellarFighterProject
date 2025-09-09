@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\DustellarProject.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\DustellarProject.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\DustellarProjectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\DustellarProject">
+      <UniqueIdentifier>{400C6BD9-A275-356E-A644-2FC811AB6E2A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\DustellarProject\DustellarProject.Build.cs">
+      <Filter>Source\DustellarProject</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\DustellarProject\DustellarProject.cpp">
+      <Filter>Source\DustellarProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DustellarProject\DustellarProject.h">
+      <Filter>Source\DustellarProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DustellarProject\DustellarProjectCharacter.cpp">
+      <Filter>Source\DustellarProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DustellarProject\DustellarProjectCharacter.h">
+      <Filter>Source\DustellarProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DustellarProject\DustellarProjectGameMode.cpp">
+      <Filter>Source\DustellarProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DustellarProject\DustellarProjectGameMode.h">
+      <Filter>Source\DustellarProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DustellarProject\DustellarProjectPlayerController.cpp">
+      <Filter>Source\DustellarProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DustellarProject\DustellarProjectPlayerController.h">
+      <Filter>Source\DustellarProject</Filter>
+    </ClInclude>
+    <Filter Include="Source\DustellarProject\Variant_Combat">
+      <UniqueIdentifier>{523103C7-E23F-3665-B562-845E6378AD67}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\DustellarProject\Variant_Combat\CombatCharacter.cpp">
+      <Filter>Source\DustellarProject\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DustellarProject\Variant_Combat\CombatCharacter.h">
+      <Filter>Source\DustellarProject\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DustellarProject\Variant_Combat\CombatGameMode.cpp">
+      <Filter>Source\DustellarProject\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DustellarProject\Variant_Combat\CombatGameMode.h">
+      <Filter>Source\DustellarProject\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DustellarProject\Variant_Combat\CombatPlayerController.cpp">
+      <Filter>Source\DustellarProject\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DustellarProject\Variant_Combat\CombatPlayerController.h">
+      <Filter>Source\DustellarProject\Variant_Combat</Filter>
+    </ClInclude>
+    <Filter Include="Source\DustellarProject\Variant_Combat\AI">
+      <UniqueIdentifier>{2EE6F1D4-96F0-3587-9DB4-C9339EC46376}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\DustellarProject\Variant_Combat\AI\CombatAIController.cpp">
+      <Filter>Source\DustellarProject\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DustellarProject\Variant_Combat\AI\CombatAIController.h">
+      <Filter>Source\DustellarProject\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DustellarProject\Variant_Combat\AI\CombatEnemy.cpp">
+      <Filter>Source\DustellarProject\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DustellarProject\Variant_Combat\AI\CombatEnemy.h">
+      <Filter>Source\DustellarProject\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DustellarProject\Variant_Combat\AI\CombatEnemySpawner.cpp">
+      <Filter>Source\DustellarProject\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DustellarProject\Variant_Combat\AI\CombatEnemySpawner.h">
+      <Filter>Source\DustellarProject\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DustellarProject\Variant_Combat\AI\CombatStateTreeUtility.cpp">
+      <Filter>Source\DustellarProject\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DustellarProject\Variant_Combat\AI\CombatStateTreeUtility.h">
+      <Filter>Source\DustellarProject\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DustellarProject\Variant_Combat\AI\EnvQueryContext_Player.cpp">
+      <Filter>Source\DustellarProject\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DustellarProject\Variant_Combat\AI\EnvQueryContext_Player.h">
+      <Filter>Source\DustellarProject\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <Filter Include="Source\DustellarProject\Variant_Combat\Animation">
+      <UniqueIdentifier>{151D35B5-B2A7-369B-865D-6567F85A02B3}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\DustellarProject\Variant_Combat\Animation\AnimNotify_CheckChargedAttack.cpp">
+      <Filter>Source\DustellarProject\Variant_Combat\Animation</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DustellarProject\Variant_Combat\Animation\AnimNotify_CheckChargedAttack.h">
+      <Filter>Source\DustellarProject\Variant_Combat\Animation</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DustellarProject\Variant_Combat\Animation\AnimNotify_CheckCombo.cpp">
+      <Filter>Source\DustellarProject\Variant_Combat\Animation</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DustellarProject\Variant_Combat\Animation\AnimNotify_CheckCombo.h">
+      <Filter>Source\DustellarProject\Variant_Combat\Animation</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DustellarProject\Variant_Combat\Animation\AnimNotify_DoAttackTrace.cpp">
+      <Filter>Source\DustellarProject\Variant_Combat\Animation</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DustellarProject\Variant_Combat\Animation\AnimNotify_DoAttackTrace.h">
+      <Filter>Source\DustellarProject\Variant_Combat\Animation</Filter>
+    </ClInclude>
+    <Filter Include="Source\DustellarProject\Variant_Combat\Gameplay">
+      <UniqueIdentifier>{B6539734-14B7-3512-825C-6493400ECB4F}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\DustellarProject\Variant_Combat\Gameplay\CombatActivationVolume.cpp">
+      <Filter>Source\DustellarProject\Variant_Combat\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DustellarProject\Variant_Combat\Gameplay\CombatActivationVolume.h">
+      <Filter>Source\DustellarProject\Variant_Combat\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DustellarProject\Variant_Combat\Gameplay\CombatCheckpointVolume.cpp">
+      <Filter>Source\DustellarProject\Variant_Combat\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DustellarProject\Variant_Combat\Gameplay\CombatCheckpointVolume.h">
+      <Filter>Source\DustellarProject\Variant_Combat\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DustellarProject\Variant_Combat\Gameplay\CombatDamageableBox.cpp">
+      <Filter>Source\DustellarProject\Variant_Combat\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DustellarProject\Variant_Combat\Gameplay\CombatDamageableBox.h">
+      <Filter>Source\DustellarProject\Variant_Combat\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DustellarProject\Variant_Combat\Gameplay\CombatDummy.cpp">
+      <Filter>Source\DustellarProject\Variant_Combat\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DustellarProject\Variant_Combat\Gameplay\CombatDummy.h">
+      <Filter>Source\DustellarProject\Variant_Combat\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DustellarProject\Variant_Combat\Gameplay\CombatLavaFloor.cpp">
+      <Filter>Source\DustellarProject\Variant_Combat\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DustellarProject\Variant_Combat\Gameplay\CombatLavaFloor.h">
+      <Filter>Source\DustellarProject\Variant_Combat\Gameplay</Filter>
+    </ClInclude>
+    <Filter Include="Source\DustellarProject\Variant_Combat\Interfaces">
+      <UniqueIdentifier>{2C1B206A-1EA5-39D0-B1ED-04C9AF41310D}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\DustellarProject\Variant_Combat\Interfaces\CombatActivatable.cpp">
+      <Filter>Source\DustellarProject\Variant_Combat\Interfaces</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DustellarProject\Variant_Combat\Interfaces\CombatActivatable.h">
+      <Filter>Source\DustellarProject\Variant_Combat\Interfaces</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DustellarProject\Variant_Combat\Interfaces\CombatAttacker.cpp">
+      <Filter>Source\DustellarProject\Variant_Combat\Interfaces</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DustellarProject\Variant_Combat\Interfaces\CombatAttacker.h">
+      <Filter>Source\DustellarProject\Variant_Combat\Interfaces</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DustellarProject\Variant_Combat\Interfaces\CombatDamageable.cpp">
+      <Filter>Source\DustellarProject\Variant_Combat\Interfaces</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DustellarProject\Variant_Combat\Interfaces\CombatDamageable.h">
+      <Filter>Source\DustellarProject\Variant_Combat\Interfaces</Filter>
+    </ClInclude>
+    <Filter Include="Source\DustellarProject\Variant_Combat\UI">
+      <UniqueIdentifier>{578334F7-2CEB-33E5-8C30-F39B0F6720F2}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\DustellarProject\Variant_Combat\UI\CombatLifeBar.cpp">
+      <Filter>Source\DustellarProject\Variant_Combat\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DustellarProject\Variant_Combat\UI\CombatLifeBar.h">
+      <Filter>Source\DustellarProject\Variant_Combat\UI</Filter>
+    </ClInclude>
+    <Filter Include="Source\DustellarProject\Variant_Platforming">
+      <UniqueIdentifier>{98318ADF-2EC1-3395-BD7D-7A0FBB8C52F1}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\DustellarProject\Variant_Platforming\PlatformingCharacter.cpp">
+      <Filter>Source\DustellarProject\Variant_Platforming</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DustellarProject\Variant_Platforming\PlatformingCharacter.h">
+      <Filter>Source\DustellarProject\Variant_Platforming</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DustellarProject\Variant_Platforming\PlatformingGameMode.cpp">
+      <Filter>Source\DustellarProject\Variant_Platforming</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DustellarProject\Variant_Platforming\PlatformingGameMode.h">
+      <Filter>Source\DustellarProject\Variant_Platforming</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DustellarProject\Variant_Platforming\PlatformingPlayerController.cpp">
+      <Filter>Source\DustellarProject\Variant_Platforming</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DustellarProject\Variant_Platforming\PlatformingPlayerController.h">
+      <Filter>Source\DustellarProject\Variant_Platforming</Filter>
+    </ClInclude>
+    <Filter Include="Source\DustellarProject\Variant_Platforming\Animation">
+      <UniqueIdentifier>{FEAC2742-B610-3D52-BD01-810A7DFCA6AF}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\DustellarProject\Variant_Platforming\Animation\AnimNotify_EndDash.cpp">
+      <Filter>Source\DustellarProject\Variant_Platforming\Animation</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DustellarProject\Variant_Platforming\Animation\AnimNotify_EndDash.h">
+      <Filter>Source\DustellarProject\Variant_Platforming\Animation</Filter>
+    </ClInclude>
+    <Filter Include="Source\DustellarProject\Variant_SideScrolling">
+      <UniqueIdentifier>{CB3C40D0-B030-3E00-819A-8BFCD99734E7}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\DustellarProject\Variant_SideScrolling\SideScrollingCameraManager.cpp">
+      <Filter>Source\DustellarProject\Variant_SideScrolling</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DustellarProject\Variant_SideScrolling\SideScrollingCameraManager.h">
+      <Filter>Source\DustellarProject\Variant_SideScrolling</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DustellarProject\Variant_SideScrolling\SideScrollingCharacter.cpp">
+      <Filter>Source\DustellarProject\Variant_SideScrolling</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DustellarProject\Variant_SideScrolling\SideScrollingCharacter.h">
+      <Filter>Source\DustellarProject\Variant_SideScrolling</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DustellarProject\Variant_SideScrolling\SideScrollingGameMode.cpp">
+      <Filter>Source\DustellarProject\Variant_SideScrolling</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DustellarProject\Variant_SideScrolling\SideScrollingGameMode.h">
+      <Filter>Source\DustellarProject\Variant_SideScrolling</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DustellarProject\Variant_SideScrolling\SideScrollingPlayerController.cpp">
+      <Filter>Source\DustellarProject\Variant_SideScrolling</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DustellarProject\Variant_SideScrolling\SideScrollingPlayerController.h">
+      <Filter>Source\DustellarProject\Variant_SideScrolling</Filter>
+    </ClInclude>
+    <Filter Include="Source\DustellarProject\Variant_SideScrolling\AI">
+      <UniqueIdentifier>{E78B511F-09C3-3B3E-82D4-DC29E28A455E}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\DustellarProject\Variant_SideScrolling\AI\SideScrollingAIController.cpp">
+      <Filter>Source\DustellarProject\Variant_SideScrolling\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DustellarProject\Variant_SideScrolling\AI\SideScrollingAIController.h">
+      <Filter>Source\DustellarProject\Variant_SideScrolling\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DustellarProject\Variant_SideScrolling\AI\SideScrollingNPC.cpp">
+      <Filter>Source\DustellarProject\Variant_SideScrolling\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DustellarProject\Variant_SideScrolling\AI\SideScrollingNPC.h">
+      <Filter>Source\DustellarProject\Variant_SideScrolling\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DustellarProject\Variant_SideScrolling\AI\SideScrollingStateTreeUtility.cpp">
+      <Filter>Source\DustellarProject\Variant_SideScrolling\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DustellarProject\Variant_SideScrolling\AI\SideScrollingStateTreeUtility.h">
+      <Filter>Source\DustellarProject\Variant_SideScrolling\AI</Filter>
+    </ClInclude>
+    <Filter Include="Source\DustellarProject\Variant_SideScrolling\Gameplay">
+      <UniqueIdentifier>{88E467E7-FDF3-30E1-8D00-BF5E72130E09}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\DustellarProject\Variant_SideScrolling\Gameplay\SideScrollingJumpPad.cpp">
+      <Filter>Source\DustellarProject\Variant_SideScrolling\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DustellarProject\Variant_SideScrolling\Gameplay\SideScrollingJumpPad.h">
+      <Filter>Source\DustellarProject\Variant_SideScrolling\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DustellarProject\Variant_SideScrolling\Gameplay\SideScrollingMovingPlatform.cpp">
+      <Filter>Source\DustellarProject\Variant_SideScrolling\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DustellarProject\Variant_SideScrolling\Gameplay\SideScrollingMovingPlatform.h">
+      <Filter>Source\DustellarProject\Variant_SideScrolling\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DustellarProject\Variant_SideScrolling\Gameplay\SideScrollingPickup.cpp">
+      <Filter>Source\DustellarProject\Variant_SideScrolling\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DustellarProject\Variant_SideScrolling\Gameplay\SideScrollingPickup.h">
+      <Filter>Source\DustellarProject\Variant_SideScrolling\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DustellarProject\Variant_SideScrolling\Gameplay\SideScrollingSoftPlatform.cpp">
+      <Filter>Source\DustellarProject\Variant_SideScrolling\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DustellarProject\Variant_SideScrolling\Gameplay\SideScrollingSoftPlatform.h">
+      <Filter>Source\DustellarProject\Variant_SideScrolling\Gameplay</Filter>
+    </ClInclude>
+    <Filter Include="Source\DustellarProject\Variant_SideScrolling\Interfaces">
+      <UniqueIdentifier>{23169795-A39F-389E-855E-5C641622CA1F}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\DustellarProject\Variant_SideScrolling\Interfaces\SideScrollingInteractable.cpp">
+      <Filter>Source\DustellarProject\Variant_SideScrolling\Interfaces</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DustellarProject\Variant_SideScrolling\Interfaces\SideScrollingInteractable.h">
+      <Filter>Source\DustellarProject\Variant_SideScrolling\Interfaces</Filter>
+    </ClInclude>
+    <Filter Include="Source\DustellarProject\Variant_SideScrolling\UI">
+      <UniqueIdentifier>{C27B63C6-E452-37E4-B83B-4FE1FEBB5D7E}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\DustellarProject\Variant_SideScrolling\UI\SideScrollingUI.cpp">
+      <Filter>Source\DustellarProject\Variant_SideScrolling\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DustellarProject\Variant_SideScrolling\UI\SideScrollingUI.h">
+      <Filter>Source\DustellarProject\Variant_SideScrolling\UI</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

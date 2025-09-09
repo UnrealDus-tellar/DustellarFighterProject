@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\user\\Documents\\Unreal5.6\\DustellarFighterProject\\DustellarProject\\Source\\DustellarProject\\DustellarProject.Build.cs",
+		"C:\\Users\\user\\Documents\\Unreal5.6\\DustellarFighterProject\\DustellarProject\\Plugins\\VisualStudioTools\\Source\\VisualStudioBlueprintDebuggerHelper\\VisualStudioBlueprintDebuggerHelper.Build.cs",
+		"C:\\Users\\user\\Documents\\Unreal5.6\\DustellarFighterProject\\DustellarProject\\Plugins\\VisualStudioTools\\Source\\VisualStudioTools\\VisualStudioTools.Build.cs",
+		"C:\\Users\\user\\Documents\\Unreal5.6\\DustellarFighterProject\\DustellarProject\\Source\\DustellarProject.Target.cs",
+		"C:\\Users\\user\\Documents\\Unreal5.6\\DustellarFighterProject\\DustellarProject\\Source\\DustellarProjectEditor.Target.cs"
+	],
+	"EngineVersion": "5.6.1"
+}

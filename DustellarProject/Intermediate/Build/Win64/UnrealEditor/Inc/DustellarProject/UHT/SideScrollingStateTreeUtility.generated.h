@@ -1,0 +1,41 @@
+// Copyright Epic Games, Inc. All Rights Reserved.
+/*===========================================================================
+	Generated code exported from UnrealHeaderTool.
+	DO NOT modify this manually! Edit the corresponding .h files instead!
+===========================================================================*/
+
+// IWYU pragma: private, include "Variant_SideScrolling/AI/SideScrollingStateTreeUtility.h"
+
+#ifdef DUSTELLARPROJECT_SideScrollingStateTreeUtility_generated_h
+#error "SideScrollingStateTreeUtility.generated.h already included, missing '#pragma once' in SideScrollingStateTreeUtility.h"
+#endif
+#define DUSTELLARPROJECT_SideScrollingStateTreeUtility_generated_h
+
+#include "UObject/ObjectMacros.h"
+#include "UObject/ScriptMacros.h"
+
+PRAGMA_DISABLE_DEPRECATION_WARNINGS
+
+// ********** Begin ScriptStruct FStateTreeGetPlayerInstanceData ***********************************
+#define FID_Users_user_Documents_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Variant_SideScrolling_AI_SideScrollingStateTreeUtility_h_18_GENERATED_BODY \
+	friend struct Z_Construct_UScriptStruct_FStateTreeGetPlayerInstanceData_Statics; \
+	DUSTELLARPROJECT_API static class UScriptStruct* StaticStruct();
+
+
+struct FStateTreeGetPlayerInstanceData;
+// ********** End ScriptStruct FStateTreeGetPlayerInstanceData *************************************
+
+// ********** Begin ScriptStruct FStateTreeGetPlayerTask *******************************************
+#define FID_Users_user_Documents_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Variant_SideScrolling_AI_SideScrollingStateTreeUtility_h_47_GENERATED_BODY \
+	friend struct Z_Construct_UScriptStruct_FStateTreeGetPlayerTask_Statics; \
+	DUSTELLARPROJECT_API static class UScriptStruct* StaticStruct(); \
+	typedef FStateTreeTaskCommonBase Super;
+
+
+struct FStateTreeGetPlayerTask;
+// ********** End ScriptStruct FStateTreeGetPlayerTask *********************************************
+
+#undef CURRENT_FILE_ID
+#define CURRENT_FILE_ID FID_Users_user_Documents_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Variant_SideScrolling_AI_SideScrollingStateTreeUtility_h
+
+PRAGMA_ENABLE_DEPRECATION_WARNINGS

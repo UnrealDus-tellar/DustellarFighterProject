@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "DustellarProject",
+			"Path": "..\\Source\\DustellarProject.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "DustellarProjectEditor",
+			"Path": "..\\Source\\DustellarProjectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
