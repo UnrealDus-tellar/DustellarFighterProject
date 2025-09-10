@@ -3,6 +3,7 @@
 #include "C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Intermediate/Build/Win64/UnrealEditor/Inc/DustellarProject/UHT/AnimNotify_CheckCombo.gen.cpp"
 #include "C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Intermediate/Build/Win64/UnrealEditor/Inc/DustellarProject/UHT/AnimNotify_DoAttackTrace.gen.cpp"
 #include "C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Intermediate/Build/Win64/UnrealEditor/Inc/DustellarProject/UHT/AnimNotify_EndDash.gen.cpp"
+#include "C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Intermediate/Build/Win64/UnrealEditor/Inc/DustellarProject/UHT/AttackComponent.gen.cpp"
 #include "C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Intermediate/Build/Win64/UnrealEditor/Inc/DustellarProject/UHT/CombatActivatable.gen.cpp"
 #include "C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Intermediate/Build/Win64/UnrealEditor/Inc/DustellarProject/UHT/CombatActivationVolume.gen.cpp"
 #include "C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Intermediate/Build/Win64/UnrealEditor/Inc/DustellarProject/UHT/CombatAIController.gen.cpp"

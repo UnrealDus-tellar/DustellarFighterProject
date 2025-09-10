@@ -5,7 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Content/__ExternalActors__/MainMap/C/5G/I7GAJX54CXA97U2SVBTKPG.uasset",
 				"C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Content/__ExternalActors__/MainMap/6/BI/ZCK99O81F6D1NAF7W5HR3L.uasset",
 				"C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Content/__ExternalActors__/MainMap/7/R2/MBJW1393RIFCD3AISBLSV1.uasset",
 				"C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Content/__ExternalActors__/MainMap/E/JJ/1IKO73M6J0ND7JBT0MUSWZ.uasset",
@@ -70,13 +69,7 @@
 				"C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Content/__ExternalActors__/MainMap/8/FS/YV6IE5KW9RJ8IH2Z5EZ951.uasset",
 				"C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Content/__ExternalActors__/MainMap/A/RG/2SSBH0XQWYTZMROJ021V9B.uasset",
 				"C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Content/__ExternalActors__/MainMap/9/5L/AZF71HQP2I8FLDDV325SYW.uasset",
-				"C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Content/__ExternalObjects__/MainMap/A/Y1/2J1PG38QD39QTI6C4R0HPQ.uasset",
-				"C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Content/__ExternalObjects__/MainMap/9/IP/D02SNTX0JW51D6XH46J4CK.uasset",
-				"C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Content/MainMap.umap",
-				"C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Content/__ExternalObjects__/MainDevelopMap/1/0J/K8XXTZOE9V9RMO6VE6SUZC.uasset",
-				"C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Content/__ExternalObjects__/MainDevelopMap/1/4Z/M1A1ADSK47BZ7F7D9JVBFL.uasset",
 				"C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Content/MainDevelopMap.umap",
-				"C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Content/__ExternalActors__/MainDevelopMap/D/01/U5R7489TYF0B8DYT95M782.uasset",
 				"C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Content/__ExternalActors__/MainDevelopMap/C/JI/FCIB5H1JT8DLL5VI2JIRKL.uasset",
 				"C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Content/__ExternalActors__/MainDevelopMap/3/DW/ITB65B9MF2U9H5OHKYM72W.uasset",
 				"C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Content/__ExternalActors__/MainDevelopMap/A/WD/0OQX344ITFV0LD74PJK78J.uasset",
@@ -208,7 +201,19 @@
 				"C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Content/__ExternalActors__/DevelopersFolder/MainDevelopMap/3/4A/PGG3LO9RLB56Q00P6YF5JJ.uasset",
 				"C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Content/__ExternalActors__/DevelopersFolder/MainDevelopMap/B/CG/O64VC48YUIHH4JVMAZXL5S.uasset",
 				"C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Content/__ExternalActors__/DevelopersFolder/MainDevelopMap/B/DK/UBVYS0OPXKTWKKRZ5ZNEG3.uasset",
-				"C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Content/__ExternalActors__/DevelopersFolder/MainDevelopMap/A/DP/H0PWUN2RQTSFNI47NKWXN6.uasset"
+				"C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Content/__ExternalActors__/DevelopersFolder/MainDevelopMap/A/DP/H0PWUN2RQTSFNI47NKWXN6.uasset",
+				"C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Content/AttackAction_JWS/FourAttack.uasset",
+				"C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Content/AttackAction_JWS/Upper_montage.uasset",
+				"C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Content/AttackAction_JWS/Upper_Anim1_Montage.uasset",
+				"C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Content/__ExternalActors__/MainMap/C/5G/I7GAJX54CXA97U2SVBTKPG.uasset",
+				"C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Content/__ExternalObjects__/MainMap/A/Y1/2J1PG38QD39QTI6C4R0HPQ.uasset",
+				"C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Content/__ExternalObjects__/MainMap/9/IP/D02SNTX0JW51D6XH46J4CK.uasset",
+				"C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Content/MainMap.umap",
+				"C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Content/__ExternalObjects__/MainDevelopMap/1/0J/K8XXTZOE9V9RMO6VE6SUZC.uasset",
+				"C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Content/__ExternalObjects__/MainDevelopMap/1/4Z/M1A1ADSK47BZ7F7D9JVBFL.uasset",
+				"C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Content/__ExternalActors__/MainDevelopMap/D/01/U5R7489TYF0B8DYT95M782.uasset"
 			]
 		}
 	]

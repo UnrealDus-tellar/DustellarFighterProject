@@ -21,13 +21,13 @@ void EmptyLinkFunctionForGeneratedCodeDustellarProject_init() {}
 				SingletonFuncArray,
 				UE_ARRAY_COUNT(SingletonFuncArray),
 				PKG_CompiledIn | 0x00000000,
-				0xB4C596A9,
-				0xBBE25992,
+				0xDB9135CA,
+				0x4E90638D,
 				METADATA_PARAMS(0, nullptr)
 			};
 			UECodeGen_Private::ConstructUPackage(Z_Registration_Info_UPackage__Script_DustellarProject.OuterSingleton, PackageParams);
 		}
 		return Z_Registration_Info_UPackage__Script_DustellarProject.OuterSingleton;
 	}
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_DustellarProject(Z_Construct_UPackage__Script_DustellarProject, TEXT("/Script/DustellarProject"), Z_Registration_Info_UPackage__Script_DustellarProject, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xB4C596A9, 0xBBE25992));
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_DustellarProject(Z_Construct_UPackage__Script_DustellarProject, TEXT("/Script/DustellarProject"), Z_Registration_Info_UPackage__Script_DustellarProject, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xDB9135CA, 0x4E90638D));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

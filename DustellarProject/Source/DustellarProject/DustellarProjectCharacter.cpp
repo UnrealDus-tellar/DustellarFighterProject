@@ -18,6 +18,10 @@
 //@@디버그용 문자   UE_LOG(LogTemp, Warning, TEXT("Hi"));
 //@@			UE_LOG(LogTemp, Warning, TEXT("H %s"), *OtherActor->GetName());
 
+//@@ SKM_Quinn_Simple 로 
+//@@ 동작 바인딩해주세요
+//@@ animclass combat
+//@@ project setting -> input -> 우클릭 좌클릭 스킬 바인딩해주세요
 //@@생성자
 ADustellarProjectCharacter::ADustellarProjectCharacter()
 {
