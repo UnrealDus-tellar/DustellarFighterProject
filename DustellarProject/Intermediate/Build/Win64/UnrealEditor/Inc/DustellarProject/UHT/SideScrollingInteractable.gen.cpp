@@ -157,14 +157,14 @@ DEFINE_VTABLE_PTR_HELPER_CTOR(USideScrollingInteractable);
 // ********** End Interface USideScrollingInteractable *********************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_Users_user_Documents_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Variant_SideScrolling_Interfaces_SideScrollingInteractable_h__Script_DustellarProject_Statics
+struct Z_CompiledInDeferFile_FID_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Variant_SideScrolling_Interfaces_SideScrollingInteractable_h__Script_DustellarProject_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_USideScrollingInteractable, USideScrollingInteractable::StaticClass, TEXT("USideScrollingInteractable"), &Z_Registration_Info_UClass_USideScrollingInteractable, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(USideScrollingInteractable), 1018019957U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_user_Documents_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Variant_SideScrolling_Interfaces_SideScrollingInteractable_h__Script_DustellarProject_4050946217(TEXT("/Script/DustellarProject"),
-	Z_CompiledInDeferFile_FID_Users_user_Documents_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Variant_SideScrolling_Interfaces_SideScrollingInteractable_h__Script_DustellarProject_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_user_Documents_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Variant_SideScrolling_Interfaces_SideScrollingInteractable_h__Script_DustellarProject_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Variant_SideScrolling_Interfaces_SideScrollingInteractable_h__Script_DustellarProject_4050946217(TEXT("/Script/DustellarProject"),
+	Z_CompiledInDeferFile_FID_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Variant_SideScrolling_Interfaces_SideScrollingInteractable_h__Script_DustellarProject_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Variant_SideScrolling_Interfaces_SideScrollingInteractable_h__Script_DustellarProject_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // ********** End Registration *********************************************************************
