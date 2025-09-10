@@ -17,7 +17,7 @@
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
 // ********** Begin Class ADustellarProjectCharacter ***********************************************
-#define FID_Users_user_Documents_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_DustellarProjectCharacter_h_24_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_DustellarProjectCharacter_h_24_RPC_WRAPPERS_NO_PURE_DECLS \
 	DECLARE_FUNCTION(execDoJumpEnd); \
 	DECLARE_FUNCTION(execDoJumpStart); \
 	DECLARE_FUNCTION(execDoLook); \
@@ -26,7 +26,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
 DUSTELLARPROJECT_API UClass* Z_Construct_UClass_ADustellarProjectCharacter_NoRegister();
 
-#define FID_Users_user_Documents_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_DustellarProjectCharacter_h_24_INCLASS_NO_PURE_DECLS \
+#define FID_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_DustellarProjectCharacter_h_24_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesADustellarProjectCharacter(); \
 	friend struct Z_Construct_UClass_ADustellarProjectCharacter_Statics; \
@@ -37,7 +37,7 @@ public: \
 	DECLARE_SERIALIZER(ADustellarProjectCharacter)
 
 
-#define FID_Users_user_Documents_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_DustellarProjectCharacter_h_24_ENHANCED_CONSTRUCTORS \
+#define FID_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_DustellarProjectCharacter_h_24_ENHANCED_CONSTRUCTORS \
 	/** Deleted move- and copy-constructors, should never be used */ \
 	ADustellarProjectCharacter(ADustellarProjectCharacter&&) = delete; \
 	ADustellarProjectCharacter(const ADustellarProjectCharacter&) = delete; \
@@ -47,13 +47,13 @@ public: \
 	NO_API virtual ~ADustellarProjectCharacter();
 
 
-#define FID_Users_user_Documents_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_DustellarProjectCharacter_h_21_PROLOG
-#define FID_Users_user_Documents_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_DustellarProjectCharacter_h_24_GENERATED_BODY \
+#define FID_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_DustellarProjectCharacter_h_21_PROLOG
+#define FID_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_DustellarProjectCharacter_h_24_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Users_user_Documents_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_DustellarProjectCharacter_h_24_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_Users_user_Documents_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_DustellarProjectCharacter_h_24_INCLASS_NO_PURE_DECLS \
-	FID_Users_user_Documents_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_DustellarProjectCharacter_h_24_ENHANCED_CONSTRUCTORS \
+	FID_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_DustellarProjectCharacter_h_24_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_DustellarProjectCharacter_h_24_INCLASS_NO_PURE_DECLS \
+	FID_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_DustellarProjectCharacter_h_24_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -63,6 +63,6 @@ class ADustellarProjectCharacter;
 // ********** End Class ADustellarProjectCharacter *************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Users_user_Documents_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_DustellarProjectCharacter_h
+#define CURRENT_FILE_ID FID_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_DustellarProjectCharacter_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
