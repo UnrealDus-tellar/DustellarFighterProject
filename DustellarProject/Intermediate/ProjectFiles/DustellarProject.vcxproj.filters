@@ -12,6 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <None Include="..\..\.vsconfig" />
+    <None Include="..\..\Temp.txt" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -155,6 +156,66 @@
     </ClCompile>
     <ClInclude Include="..\..\Source\DustellarProject\DustellarProjectPlayerController.h">
       <Filter>Source\DustellarProject</Filter>
+    </ClInclude>
+    <Filter Include="Source\DustellarProject\Private">
+      <UniqueIdentifier>{6F5DD0BC-0EAE-37CF-946A-192FE31DABDD}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\DustellarProject\Private\EnemyCharacter.cpp">
+      <Filter>Source\DustellarProject\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\DustellarProject\Private\Scarlett.cpp">
+      <Filter>Source\DustellarProject\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\DustellarProject\Private\ScarlettAnim.cpp">
+      <Filter>Source\DustellarProject\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\DustellarProject\Private\ScarlettFSM.cpp">
+      <Filter>Source\DustellarProject\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\DustellarProject\Private\ScarlettGameModeBase.cpp">
+      <Filter>Source\DustellarProject\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\DustellarProject\Private\ScarlettPlayer.cpp">
+      <Filter>Source\DustellarProject\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\DustellarProject\Private\Component">
+      <UniqueIdentifier>{1523FCD1-4786-3789-95ED-BDA262E9D3FC}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\DustellarProject\Private\Component\AttackComponent.cpp">
+      <Filter>Source\DustellarProject\Private\Component</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\DustellarProject\Private\Component\StatComponent.cpp">
+      <Filter>Source\DustellarProject\Private\Component</Filter>
+    </ClCompile>
+    <Filter Include="Source\DustellarProject\Public">
+      <UniqueIdentifier>{063E5719-4644-3161-83CB-38EDF464FBEC}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\DustellarProject\Public\EnemyCharacter.h">
+      <Filter>Source\DustellarProject\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\DustellarProject\Public\Scarlett.h">
+      <Filter>Source\DustellarProject\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\DustellarProject\Public\ScarlettAnim.h">
+      <Filter>Source\DustellarProject\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\DustellarProject\Public\ScarlettFSM.h">
+      <Filter>Source\DustellarProject\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\DustellarProject\Public\ScarlettGameModeBase.h">
+      <Filter>Source\DustellarProject\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\DustellarProject\Public\ScarlettPlayer.h">
+      <Filter>Source\DustellarProject\Public</Filter>
+    </ClInclude>
+    <Filter Include="Source\DustellarProject\Public\Component">
+      <UniqueIdentifier>{EFF1A2DB-9E12-32D0-A8DC-CCD09C47C690}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\DustellarProject\Public\Component\AttackComponent.h">
+      <Filter>Source\DustellarProject\Public\Component</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\DustellarProject\Public\Component\StatComponent.h">
+      <Filter>Source\DustellarProject\Public\Component</Filter>
     </ClInclude>
     <Filter Include="Source\DustellarProject\Variant_Combat">
       <UniqueIdentifier>{523103C7-E23F-3665-B562-845E6378AD67}</UniqueIdentifier>
