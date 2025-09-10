@@ -156,6 +156,42 @@
     <ClInclude Include="..\..\Source\DustellarProject\DustellarProjectPlayerController.h">
       <Filter>Source\DustellarProject</Filter>
     </ClInclude>
+    <Filter Include="Source\DustellarProject\Private">
+      <UniqueIdentifier>{6F5DD0BC-0EAE-37CF-946A-192FE31DABDD}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\DustellarProject\Private\Scarlett.cpp">
+      <Filter>Source\DustellarProject\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\DustellarProject\Private\ScarlettAnim.cpp">
+      <Filter>Source\DustellarProject\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\DustellarProject\Private\ScarlettFSM.cpp">
+      <Filter>Source\DustellarProject\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\DustellarProject\Private\ScarlettGameModeBase.cpp">
+      <Filter>Source\DustellarProject\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\DustellarProject\Private\ScarlettPlayer.cpp">
+      <Filter>Source\DustellarProject\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\DustellarProject\Public">
+      <UniqueIdentifier>{063E5719-4644-3161-83CB-38EDF464FBEC}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\DustellarProject\Public\Scarlett.h">
+      <Filter>Source\DustellarProject\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\DustellarProject\Public\ScarlettAnim.h">
+      <Filter>Source\DustellarProject\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\DustellarProject\Public\ScarlettFSM.h">
+      <Filter>Source\DustellarProject\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\DustellarProject\Public\ScarlettGameModeBase.h">
+      <Filter>Source\DustellarProject\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\DustellarProject\Public\ScarlettPlayer.h">
+      <Filter>Source\DustellarProject\Public</Filter>
+    </ClInclude>
     <Filter Include="Source\DustellarProject\Variant_Combat">
       <UniqueIdentifier>{523103C7-E23F-3665-B562-845E6378AD67}</UniqueIdentifier>
     </Filter>
