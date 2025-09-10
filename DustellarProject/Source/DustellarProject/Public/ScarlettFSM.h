@@ -56,7 +56,7 @@ public:
 	float attackRange = 300.0f;
 
 	UPROPERTY(VisibleAnywhere, Category = FSM)
-	class AScarlettPlayer* target; // 타겟 : 플레이어
+	class ADustellarProjectCharacter* target; // 타겟 : 플레이어
 
 	UPROPERTY()
 	class UScarlettAnim* anim; // 애니메이션 블루프린트 인스턴스

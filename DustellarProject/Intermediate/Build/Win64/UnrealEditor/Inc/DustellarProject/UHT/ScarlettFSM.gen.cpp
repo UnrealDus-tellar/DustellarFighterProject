@@ -12,8 +12,8 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 void EmptyLinkFunctionForGeneratedCodeScarlettFSM() {}
 
 // ********** Begin Cross Module References ********************************************************
+DUSTELLARPROJECT_API UClass* Z_Construct_UClass_ADustellarProjectCharacter_NoRegister();
 DUSTELLARPROJECT_API UClass* Z_Construct_UClass_AScarlett_NoRegister();
-DUSTELLARPROJECT_API UClass* Z_Construct_UClass_AScarlettPlayer_NoRegister();
 DUSTELLARPROJECT_API UClass* Z_Construct_UClass_UScarlettAnim_NoRegister();
 DUSTELLARPROJECT_API UClass* Z_Construct_UClass_UScarlettFSM();
 DUSTELLARPROJECT_API UClass* Z_Construct_UClass_UScarlettFSM_NoRegister();
@@ -183,7 +183,7 @@ const UECodeGen_Private::FEnumPropertyParams Z_Construct_UClass_UScarlettFSM_Sta
 const UECodeGen_Private::FIntPropertyParams Z_Construct_UClass_UScarlettFSM_Statics::NewProp_hp = { "hp", nullptr, (EPropertyFlags)0x0010000000010005, UECodeGen_Private::EPropertyGenFlags::Int, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(UScarlettFSM, hp), METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_hp_MetaData), NewProp_hp_MetaData) };
 const UECodeGen_Private::FFloatPropertyParams Z_Construct_UClass_UScarlettFSM_Statics::NewProp_detectRange = { "detectRange", nullptr, (EPropertyFlags)0x0010000000000001, UECodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(UScarlettFSM, detectRange), METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_detectRange_MetaData), NewProp_detectRange_MetaData) };
 const UECodeGen_Private::FFloatPropertyParams Z_Construct_UClass_UScarlettFSM_Statics::NewProp_attackRange = { "attackRange", nullptr, (EPropertyFlags)0x0010000000000001, UECodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(UScarlettFSM, attackRange), METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_attackRange_MetaData), NewProp_attackRange_MetaData) };
-const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_UScarlettFSM_Statics::NewProp_target = { "target", nullptr, (EPropertyFlags)0x0010000000020001, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(UScarlettFSM, target), Z_Construct_UClass_AScarlettPlayer_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_target_MetaData), NewProp_target_MetaData) };
+const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_UScarlettFSM_Statics::NewProp_target = { "target", nullptr, (EPropertyFlags)0x0010000000020001, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(UScarlettFSM, target), Z_Construct_UClass_ADustellarProjectCharacter_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_target_MetaData), NewProp_target_MetaData) };
 const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_UScarlettFSM_Statics::NewProp_anim = { "anim", nullptr, (EPropertyFlags)0x0010000000000000, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(UScarlettFSM, anim), Z_Construct_UClass_UScarlettAnim_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_anim_MetaData), NewProp_anim_MetaData) };
 const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_UScarlettFSM_Statics::NewProp_me = { "me", nullptr, (EPropertyFlags)0x0010000000000000, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(UScarlettFSM, me), Z_Construct_UClass_AScarlett_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_me_MetaData), NewProp_me_MetaData) };
 const UECodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_UScarlettFSM_Statics::PropPointers[] = {
@@ -236,10 +236,10 @@ struct Z_CompiledInDeferFile_FID_Users_user_Documents_Unreal5_6_DustellarFighter
 		{ EScarlettState_StaticEnum, TEXT("EScarlettState"), &Z_Registration_Info_UEnum_EScarlettState, CONSTRUCT_RELOAD_VERSION_INFO(FEnumReloadVersionInfo, 994416103U) },
 	};
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
-		{ Z_Construct_UClass_UScarlettFSM, UScarlettFSM::StaticClass, TEXT("UScarlettFSM"), &Z_Registration_Info_UClass_UScarlettFSM, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UScarlettFSM), 399684214U) },
+		{ Z_Construct_UClass_UScarlettFSM, UScarlettFSM::StaticClass, TEXT("UScarlettFSM"), &Z_Registration_Info_UClass_UScarlettFSM, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UScarlettFSM), 1931670894U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_user_Documents_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Public_ScarlettFSM_h__Script_DustellarProject_4136414160(TEXT("/Script/DustellarProject"),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_user_Documents_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Public_ScarlettFSM_h__Script_DustellarProject_2277127517(TEXT("/Script/DustellarProject"),
 	Z_CompiledInDeferFile_FID_Users_user_Documents_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Public_ScarlettFSM_h__Script_DustellarProject_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_user_Documents_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Public_ScarlettFSM_h__Script_DustellarProject_Statics::ClassInfo),
 	nullptr, 0,
 	Z_CompiledInDeferFile_FID_Users_user_Documents_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Public_ScarlettFSM_h__Script_DustellarProject_Statics::EnumInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_user_Documents_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Public_ScarlettFSM_h__Script_DustellarProject_Statics::EnumInfo));

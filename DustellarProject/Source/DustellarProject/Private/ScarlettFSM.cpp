@@ -5,6 +5,7 @@
 #include "ScarlettPlayer.h"
 #include "Scarlett.h"
 #include "ScarlettAnim.h"
+#include "DustellarProjectCharacter.h"
 
 #include "Kismet/GameplayStatics.h"
 #include "Components/CapsuleComponent.h"
@@ -26,8 +27,8 @@ void UScarlettFSM::BeginPlay()
 {
 	Super::BeginPlay();
 
-	auto actor = UGameplayStatics::GetActorOfClass(GetWorld(), AScarlettPlayer::StaticClass());
-	target = Cast<AScarlettPlayer>(actor);
+	auto actor = UGameplayStatics::GetActorOfClass(GetWorld(), ADustellarProjectCharacter::StaticClass());
+	target = Cast<ADustellarProjectCharacter>(actor);
 	me = Cast<AScarlett>(GetOwner());
 	anim = Cast<UScarlettAnim>(me->GetMesh()->GetAnimInstance());
 

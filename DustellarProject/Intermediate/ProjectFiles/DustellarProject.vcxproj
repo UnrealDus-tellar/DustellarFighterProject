@@ -537,6 +537,7 @@
     <None Include="..\..\Source\DustellarProject.Target.cs"/>
     <None Include="..\..\Source\DustellarProjectEditor.Target.cs"/>
     <None Include="..\..\.vsconfig"/>
+    <None Include="..\..\Temp.txt"/>
     <None Include="..\..\Config\DefaultEditor.ini"/>
     <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini"/>
     <None Include="..\..\Config\DefaultEngine.ini"/>
@@ -626,6 +627,11 @@
       <AdditionalOptions>$(ClCompile_AdditionalOptions_1)</AdditionalOptions>
     </ClCompile>
     <ClInclude Include="..\..\Source\DustellarProject\DustellarProjectPlayerController.h"/>
+    <ClCompile Include="..\..\Source\DustellarProject\Private\EnemyCharacter.cpp">
+      <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories_2)</AdditionalIncludeDirectories>
+      <ForcedIncludeFiles>$(ClCompile_ForcedIncludeFiles_2)</ForcedIncludeFiles>
+      <AdditionalOptions>$(ClCompile_AdditionalOptions_1)</AdditionalOptions>
+    </ClCompile>
     <ClCompile Include="..\..\Source\DustellarProject\Private\Scarlett.cpp">
       <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories_2)</AdditionalIncludeDirectories>
       <ForcedIncludeFiles>$(ClCompile_ForcedIncludeFiles_2)</ForcedIncludeFiles>
@@ -651,11 +657,24 @@
       <ForcedIncludeFiles>$(ClCompile_ForcedIncludeFiles_2)</ForcedIncludeFiles>
       <AdditionalOptions>$(ClCompile_AdditionalOptions_1)</AdditionalOptions>
     </ClCompile>
+    <ClCompile Include="..\..\Source\DustellarProject\Private\Component\AttackComponent.cpp">
+      <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories_2)</AdditionalIncludeDirectories>
+      <ForcedIncludeFiles>$(ClCompile_ForcedIncludeFiles_2)</ForcedIncludeFiles>
+      <AdditionalOptions>$(ClCompile_AdditionalOptions_1)</AdditionalOptions>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\DustellarProject\Private\Component\StatComponent.cpp">
+      <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories_2)</AdditionalIncludeDirectories>
+      <ForcedIncludeFiles>$(ClCompile_ForcedIncludeFiles_2)</ForcedIncludeFiles>
+      <AdditionalOptions>$(ClCompile_AdditionalOptions_1)</AdditionalOptions>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DustellarProject\Public\EnemyCharacter.h"/>
     <ClInclude Include="..\..\Source\DustellarProject\Public\Scarlett.h"/>
     <ClInclude Include="..\..\Source\DustellarProject\Public\ScarlettAnim.h"/>
     <ClInclude Include="..\..\Source\DustellarProject\Public\ScarlettFSM.h"/>
     <ClInclude Include="..\..\Source\DustellarProject\Public\ScarlettGameModeBase.h"/>
     <ClInclude Include="..\..\Source\DustellarProject\Public\ScarlettPlayer.h"/>
+    <ClInclude Include="..\..\Source\DustellarProject\Public\Component\AttackComponent.h"/>
+    <ClInclude Include="..\..\Source\DustellarProject\Public\Component\StatComponent.h"/>
     <ClCompile Include="..\..\Source\DustellarProject\Variant_Combat\CombatCharacter.cpp">
       <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories_2)</AdditionalIncludeDirectories>
       <ForcedIncludeFiles>$(ClCompile_ForcedIncludeFiles_2)</ForcedIncludeFiles>

@@ -19,7 +19,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 // ********** Begin Class AEnemyCharacter **********************************************************
 DUSTELLARPROJECT_API UClass* Z_Construct_UClass_AEnemyCharacter_NoRegister();
 
-#define FID_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Public_EnemyCharacter_h_14_INCLASS_NO_PURE_DECLS \
+#define FID_Users_user_Documents_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Public_EnemyCharacter_h_14_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAEnemyCharacter(); \
 	friend struct Z_Construct_UClass_AEnemyCharacter_Statics; \
@@ -30,7 +30,7 @@ public: \
 	DECLARE_SERIALIZER(AEnemyCharacter)
 
 
-#define FID_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Public_EnemyCharacter_h_14_ENHANCED_CONSTRUCTORS \
+#define FID_Users_user_Documents_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Public_EnemyCharacter_h_14_ENHANCED_CONSTRUCTORS \
 	/** Deleted move- and copy-constructors, should never be used */ \
 	AEnemyCharacter(AEnemyCharacter&&) = delete; \
 	AEnemyCharacter(const AEnemyCharacter&) = delete; \
@@ -40,12 +40,12 @@ public: \
 	NO_API virtual ~AEnemyCharacter();
 
 
-#define FID_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Public_EnemyCharacter_h_11_PROLOG
-#define FID_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Public_EnemyCharacter_h_14_GENERATED_BODY \
+#define FID_Users_user_Documents_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Public_EnemyCharacter_h_11_PROLOG
+#define FID_Users_user_Documents_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Public_EnemyCharacter_h_14_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Public_EnemyCharacter_h_14_INCLASS_NO_PURE_DECLS \
-	FID_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Public_EnemyCharacter_h_14_ENHANCED_CONSTRUCTORS \
+	FID_Users_user_Documents_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Public_EnemyCharacter_h_14_INCLASS_NO_PURE_DECLS \
+	FID_Users_user_Documents_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Public_EnemyCharacter_h_14_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -55,6 +55,6 @@ class AEnemyCharacter;
 // ********** End Class AEnemyCharacter ************************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Public_EnemyCharacter_h
+#define CURRENT_FILE_ID FID_Users_user_Documents_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Public_EnemyCharacter_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

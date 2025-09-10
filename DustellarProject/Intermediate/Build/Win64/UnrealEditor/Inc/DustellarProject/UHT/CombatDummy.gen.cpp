@@ -242,14 +242,14 @@ ACombatDummy::~ACombatDummy() {}
 // ********** End Class ACombatDummy ***************************************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Variant_Combat_Gameplay_CombatDummy_h__Script_DustellarProject_Statics
+struct Z_CompiledInDeferFile_FID_Users_user_Documents_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Variant_Combat_Gameplay_CombatDummy_h__Script_DustellarProject_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_ACombatDummy, ACombatDummy::StaticClass, TEXT("ACombatDummy"), &Z_Registration_Info_UClass_ACombatDummy, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ACombatDummy), 2801212371U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Variant_Combat_Gameplay_CombatDummy_h__Script_DustellarProject_1053406041(TEXT("/Script/DustellarProject"),
-	Z_CompiledInDeferFile_FID_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Variant_Combat_Gameplay_CombatDummy_h__Script_DustellarProject_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Variant_Combat_Gameplay_CombatDummy_h__Script_DustellarProject_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_user_Documents_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Variant_Combat_Gameplay_CombatDummy_h__Script_DustellarProject_1053406041(TEXT("/Script/DustellarProject"),
+	Z_CompiledInDeferFile_FID_Users_user_Documents_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Variant_Combat_Gameplay_CombatDummy_h__Script_DustellarProject_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_user_Documents_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Variant_Combat_Gameplay_CombatDummy_h__Script_DustellarProject_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // ********** End Registration *********************************************************************
