@@ -19,7 +19,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 // ********** Begin Class AScarlett ****************************************************************
 DUSTELLARPROJECT_API UClass* Z_Construct_UClass_AScarlett_NoRegister();
 
-#define FID_Users_user_Documents_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Public_Scarlett_h_12_INCLASS_NO_PURE_DECLS \
+#define FID_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Public_Scarlett_h_12_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAScarlett(); \
 	friend struct Z_Construct_UClass_AScarlett_Statics; \
@@ -30,7 +30,7 @@ public: \
 	DECLARE_SERIALIZER(AScarlett)
 
 
-#define FID_Users_user_Documents_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Public_Scarlett_h_12_ENHANCED_CONSTRUCTORS \
+#define FID_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Public_Scarlett_h_12_ENHANCED_CONSTRUCTORS \
 	/** Deleted move- and copy-constructors, should never be used */ \
 	AScarlett(AScarlett&&) = delete; \
 	AScarlett(const AScarlett&) = delete; \
@@ -40,12 +40,12 @@ public: \
 	NO_API virtual ~AScarlett();
 
 
-#define FID_Users_user_Documents_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Public_Scarlett_h_9_PROLOG
-#define FID_Users_user_Documents_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Public_Scarlett_h_12_GENERATED_BODY \
+#define FID_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Public_Scarlett_h_9_PROLOG
+#define FID_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Public_Scarlett_h_12_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Users_user_Documents_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Public_Scarlett_h_12_INCLASS_NO_PURE_DECLS \
-	FID_Users_user_Documents_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Public_Scarlett_h_12_ENHANCED_CONSTRUCTORS \
+	FID_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Public_Scarlett_h_12_INCLASS_NO_PURE_DECLS \
+	FID_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Public_Scarlett_h_12_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -55,6 +55,6 @@ class AScarlett;
 // ********** End Class AScarlett ******************************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Users_user_Documents_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Public_Scarlett_h
+#define CURRENT_FILE_ID FID_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Public_Scarlett_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

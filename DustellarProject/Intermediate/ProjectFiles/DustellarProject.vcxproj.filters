@@ -163,6 +163,9 @@
     <ClCompile Include="..\..\Source\DustellarProject\Private\EnemyCharacter.cpp">
       <Filter>Source\DustellarProject\Private</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\Source\DustellarProject\Private\EVE.cpp">
+      <Filter>Source\DustellarProject\Private</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\Source\DustellarProject\Private\Scarlett.cpp">
       <Filter>Source\DustellarProject\Private</Filter>
     </ClCompile>
@@ -191,6 +194,9 @@
       <UniqueIdentifier>{063E5719-4644-3161-83CB-38EDF464FBEC}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Source\DustellarProject\Public\EnemyCharacter.h">
+      <Filter>Source\DustellarProject\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\DustellarProject\Public\EVE.h">
       <Filter>Source\DustellarProject\Public</Filter>
     </ClInclude>
     <ClInclude Include="..\..\Source\DustellarProject\Public\Scarlett.h">

@@ -17,14 +17,14 @@
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
 // ********** Begin Class UAttackComponent *********************************************************
-#define FID_Users_user_Documents_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Public_Component_AttackComponent_h_30_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Public_Component_AttackComponent_h_30_RPC_WRAPPERS_NO_PURE_DECLS \
 	DECLARE_FUNCTION(execUseSkill); \
 	DECLARE_FUNCTION(execResetCombo);
 
 
 DUSTELLARPROJECT_API UClass* Z_Construct_UClass_UAttackComponent_NoRegister();
 
-#define FID_Users_user_Documents_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Public_Component_AttackComponent_h_30_INCLASS_NO_PURE_DECLS \
+#define FID_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Public_Component_AttackComponent_h_30_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUAttackComponent(); \
 	friend struct Z_Construct_UClass_UAttackComponent_Statics; \
@@ -35,7 +35,7 @@ public: \
 	DECLARE_SERIALIZER(UAttackComponent)
 
 
-#define FID_Users_user_Documents_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Public_Component_AttackComponent_h_30_ENHANCED_CONSTRUCTORS \
+#define FID_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Public_Component_AttackComponent_h_30_ENHANCED_CONSTRUCTORS \
 	/** Deleted move- and copy-constructors, should never be used */ \
 	UAttackComponent(UAttackComponent&&) = delete; \
 	UAttackComponent(const UAttackComponent&) = delete; \
@@ -45,13 +45,13 @@ public: \
 	NO_API virtual ~UAttackComponent();
 
 
-#define FID_Users_user_Documents_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Public_Component_AttackComponent_h_27_PROLOG
-#define FID_Users_user_Documents_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Public_Component_AttackComponent_h_30_GENERATED_BODY \
+#define FID_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Public_Component_AttackComponent_h_27_PROLOG
+#define FID_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Public_Component_AttackComponent_h_30_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Users_user_Documents_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Public_Component_AttackComponent_h_30_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_Users_user_Documents_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Public_Component_AttackComponent_h_30_INCLASS_NO_PURE_DECLS \
-	FID_Users_user_Documents_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Public_Component_AttackComponent_h_30_ENHANCED_CONSTRUCTORS \
+	FID_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Public_Component_AttackComponent_h_30_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Public_Component_AttackComponent_h_30_INCLASS_NO_PURE_DECLS \
+	FID_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Public_Component_AttackComponent_h_30_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -61,7 +61,7 @@ class UAttackComponent;
 // ********** End Class UAttackComponent ***********************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Users_user_Documents_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Public_Component_AttackComponent_h
+#define CURRENT_FILE_ID FID_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Public_Component_AttackComponent_h
 
 // ********** Begin Enum EAttackInput **************************************************************
 #define FOREACH_ENUM_EATTACKINPUT(op) \

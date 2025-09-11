@@ -27,8 +27,8 @@ void UScarlettFSM::BeginPlay()
 {
 	Super::BeginPlay();
 
-	auto actor = UGameplayStatics::GetActorOfClass(GetWorld(), ADustellarProjectCharacter::StaticClass());
-	target = Cast<ADustellarProjectCharacter>(actor);
+	auto actor = UGameplayStatics::GetActorOfClass(GetWorld(), AEVE::StaticClass());
+	target = Cast<AEVE>(actor);
 	me = Cast<AScarlett>(GetOwner());
 	anim = Cast<UScarlettAnim>(me->GetMesh()->GetAnimInstance());
 

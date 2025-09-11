@@ -17,17 +17,17 @@
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
 // ********** Begin Class UScarlettAnim ************************************************************
-#define FID_Users_user_Documents_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Public_ScarlettAnim_h_17_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Public_ScarlettAnim_h_17_RPC_WRAPPERS_NO_PURE_DECLS \
 	DECLARE_FUNCTION(execAnimNotify_DieEnd); \
 	DECLARE_FUNCTION(execAnimNotify_EndAttack); \
 	DECLARE_FUNCTION(execStopCurrentMontage); \
 	DECLARE_FUNCTION(execPauseCurrentMontage);
 
 
-#define FID_Users_user_Documents_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Public_ScarlettAnim_h_17_CALLBACK_WRAPPERS
+#define FID_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Public_ScarlettAnim_h_17_CALLBACK_WRAPPERS
 DUSTELLARPROJECT_API UClass* Z_Construct_UClass_UScarlettAnim_NoRegister();
 
-#define FID_Users_user_Documents_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Public_ScarlettAnim_h_17_INCLASS_NO_PURE_DECLS \
+#define FID_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Public_ScarlettAnim_h_17_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUScarlettAnim(); \
 	friend struct Z_Construct_UClass_UScarlettAnim_Statics; \
@@ -38,7 +38,7 @@ public: \
 	DECLARE_SERIALIZER(UScarlettAnim)
 
 
-#define FID_Users_user_Documents_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Public_ScarlettAnim_h_17_ENHANCED_CONSTRUCTORS \
+#define FID_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Public_ScarlettAnim_h_17_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UScarlettAnim(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	/** Deleted move- and copy-constructors, should never be used */ \
@@ -50,14 +50,14 @@ public: \
 	NO_API virtual ~UScarlettAnim();
 
 
-#define FID_Users_user_Documents_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Public_ScarlettAnim_h_14_PROLOG
-#define FID_Users_user_Documents_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Public_ScarlettAnim_h_17_GENERATED_BODY \
+#define FID_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Public_ScarlettAnim_h_14_PROLOG
+#define FID_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Public_ScarlettAnim_h_17_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Users_user_Documents_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Public_ScarlettAnim_h_17_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_Users_user_Documents_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Public_ScarlettAnim_h_17_CALLBACK_WRAPPERS \
-	FID_Users_user_Documents_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Public_ScarlettAnim_h_17_INCLASS_NO_PURE_DECLS \
-	FID_Users_user_Documents_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Public_ScarlettAnim_h_17_ENHANCED_CONSTRUCTORS \
+	FID_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Public_ScarlettAnim_h_17_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Public_ScarlettAnim_h_17_CALLBACK_WRAPPERS \
+	FID_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Public_ScarlettAnim_h_17_INCLASS_NO_PURE_DECLS \
+	FID_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Public_ScarlettAnim_h_17_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -67,6 +67,6 @@ class UScarlettAnim;
 // ********** End Class UScarlettAnim **************************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Users_user_Documents_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Public_ScarlettAnim_h
+#define CURRENT_FILE_ID FID_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Public_ScarlettAnim_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
