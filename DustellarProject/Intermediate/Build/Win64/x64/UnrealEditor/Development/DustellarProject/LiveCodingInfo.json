@@ -26,12 +26,12 @@
 		],
 		"Module.DustellarProject.2.cpp.obj": [
 			"DustellarProject.init.gen.cpp.obj",
-			"DustellarProjectCharacter.gen.cpp.obj",
 			"DustellarProjectGameMode.gen.cpp.obj",
 			"DustellarProjectPlayerController.gen.cpp.obj",
 			"EnemyCharacter.gen.cpp.obj",
 			"EnvQueryContext_Player.gen.cpp.obj",
 			"EVE.gen.cpp.obj",
+			"EVEGameModeBase.gen.cpp.obj",
 			"PlatformingCharacter.gen.cpp.obj",
 			"PlatformingGameMode.gen.cpp.obj",
 			"PlatformingPlayerController.gen.cpp.obj",
@@ -49,11 +49,11 @@
 			"SideScrollingMovingPlatform.gen.cpp.obj",
 			"SideScrollingNPC.gen.cpp.obj",
 			"SideScrollingPickup.gen.cpp.obj",
-			"SideScrollingPlayerController.gen.cpp.obj"
+			"SideScrollingPlayerController.gen.cpp.obj",
+			"SideScrollingSoftPlatform.gen.cpp.obj",
+			"SideScrollingStateTreeUtility.gen.cpp.obj"
 		],
 		"Module.DustellarProject.3.cpp.obj": [
-			"SideScrollingSoftPlatform.gen.cpp.obj",
-			"SideScrollingStateTreeUtility.gen.cpp.obj",
 			"SideScrollingUI.gen.cpp.obj",
 			"StatComponent.gen.cpp.obj",
 			"PerModuleInline.gen.cpp.obj",
@@ -65,6 +65,7 @@
 			"StatComponent.cpp.obj",
 			"EnemyCharacter.cpp.obj",
 			"EVE.cpp.obj",
+			"EVEGameModeBase.cpp.obj",
 			"Scarlett.cpp.obj",
 			"ScarlettAnim.cpp.obj",
 			"ScarlettFSM.cpp.obj",

@@ -4,6 +4,7 @@
 #include "Component/AttackComponent.h"
 //@@헤더에서 타이머를 선언했기때문에
 #include "TimerManager.h"
+#include "EVE.h"
 #include "DustellarProjectCharacter.h"
 #include "Component/StatComponent.h"
 #include "GameFramework/CharacterMovementComponent.h"
@@ -37,6 +38,7 @@ void UAttackComponent::BeginPlay()
 {//@@생성자에서 하면 오류생길수도있어서 비긴플레이서 해주겠음
     Super::BeginPlay();
     //@@시작시 콤보카운터 0
+    
     ComboCount = 0;
     //@@타이머 초기화
     CurrentInputStartTime = 0.f;
