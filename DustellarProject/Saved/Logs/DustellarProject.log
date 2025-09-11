@@ -3384,3 +3384,290 @@ Would you like to reload these packages? This will revert any changes you have m
 [2025.09.11-10.33.33:565][103]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8367.104492, Update Interval: 307.388519
 [2025.09.11-10.34.03:226][459]LogSlate: Window 'Content Browser' being destroyed
 [2025.09.11-10.34.03:229][459]LogSlate: Window 'Content Browser' being destroyed
+[2025.09.11-10.39.26:549][840]LogStreaming: Display: FlushAsyncLoading(621): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.11-10.39.26:931][840]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Variant_Combat/Anims/ABP_Manny_Combat.ABP_Manny_Combat
+[2025.09.11-10.39.26:932][840]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2025.09.11-10.39.27:021][840]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SKM_Quinn_Simple) ...
+[2025.09.11-10.39.27:075][840]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_22
+[2025.09.11-10.39.27:128][840]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.11-10.39.27:560][840]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_23
+[2025.09.11-10.39.27:949][840]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_24
+[2025.09.11-10.39.28:008][840]LogSlate: Took 0.007749 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.09.11-10.39.28:271][850]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_25
+[2025.09.11-10.39.30:484][ 83]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8724.369141
+[2025.09.11-10.39.30:727][101]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.11-10.39.30:728][101]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8724.605469, Update Interval: 353.083893
+[2025.09.11-10.39.34:100][477]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Mannequins/Anims/Unarmed/Jump/MM_Jump.MM_Jump
+[2025.09.11-10.39.34:102][477]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_26
+[2025.09.11-10.39.34:108][477]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.11-10.39.34:351][477]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_27
+[2025.09.11-10.39.34:801][477]LogUObjectGlobals: Warning: Failed to find object 'Class /Script/ApexDestruction.DestructibleMesh'
+[2025.09.11-10.39.34:812][477]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_28
+[2025.09.11-10.39.34:941][478]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_29
+[2025.09.11-10.39.34:974][479]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_30
+[2025.09.11-10.39.35:086][485]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_31
+[2025.09.11-10.39.38:937][862]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2025.09.11-10.39.38:937][862]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.11-10.39.38:953][862]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2025.09.11-10.39.38:953][862]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.11-10.39.38:999][862]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2025.09.11-10.39.38:999][862]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.11-10.39.39:124][862]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.09.11-10.39.41:783][144]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'Graph.Node.Comment.TextColor'.'
+[2025.09.11-10.41.39:550][333]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Mannequins/Anims/Unarmed/Jump/MM_Land.MM_Land
+[2025.09.11-10.41.39:550][333]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_32
+[2025.09.11-10.41.39:559][333]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.11-10.41.39:815][333]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_33
+[2025.09.11-10.41.40:238][333]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_34
+[2025.09.11-10.41.48:915][124]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2025.09.11-10.41.48:915][124]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.11-10.41.48:925][124]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2025.09.11-10.41.48:925][124]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.11-10.41.48:965][124]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2025.09.11-10.41.48:965][124]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.11-10.41.49:041][124]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.09.11-10.43.14:822][905]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.09.11-10.43.14:834][905]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DevelopersFolder/MainDevelopMap' took 0.044
+[2025.09.11-10.43.14:834][905]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Variant_Combat/Anims/ABP_Manny_Combat] ([2] browsable assets)...
+[2025.09.11-10.43.14:843][905]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Variant_Combat/Anims/ABP_Manny_Combat.ABP_Manny_Combat]
+[2025.09.11-10.43.14:843][905]OBJ SavePackage: Finished generating thumbnails for package [/Game/Variant_Combat/Anims/ABP_Manny_Combat]
+[2025.09.11-10.43.14:898][905]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Variant_Combat/Anims/ABP_Manny_Combat_Auto5
+[2025.09.11-10.43.14:898][905]LogSavePackage: Moving '../../../../Unreal5.6/DustellarFighterProject/DustellarProject/Saved/ABP_Manny_Combat_Auto5A8CE6A8A437195B0FC9E5D9114C84EA7.tmp' to '../../../../Unreal5.6/DustellarFighterProject/DustellarProject/Saved/Autosaves/Game/Variant_Combat/Anims/ABP_Manny_Combat_Auto5.uasset'
+[2025.09.11-10.43.14:899][905]LogFileHelpers: Auto-saving content packages took 0.065
+[2025.09.11-10.43.57:885][595]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_35
+[2025.09.11-10.44.05:554][195]LogStreaming: Display: FlushAsyncLoading(629): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.11-10.44.05:597][195]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Anims/Unarmed/Jump/MM_WallJump.MM_WallJump (Required Memory Estimate: 0.40 MB)
+[2025.09.11-10.44.05:602][195]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Anims/Unarmed/Jump/MM_WallJump.MM_WallJump, at AnimationSequence/fc3ef0221ab65ac9e81283982f264ae8975538bd
+[2025.09.11-10.44.05:606][195]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Variant_Platforming/Anims/ABP_Manny_Platforming.ABP_Manny_Platforming
+[2025.09.11-10.44.05:606][195]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_36
+[2025.09.11-10.44.05:611][195]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_37
+[2025.09.11-10.44.05:618][195]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.11-10.44.05:924][195]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_38
+[2025.09.11-10.44.06:423][195]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_39
+[2025.09.11-10.44.53:353][895]LogStreaming: Display: FlushAsyncLoading(630): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.11-10.44.53:369][895]LogBlueprint: Error: [AssetLog] C:\Users\user\Documents\Unreal5.6\DustellarFighterProject\DustellarProject\Content\DevelopersFolder\YJH\YJH_Scarlett\Mannequin\Character_UE5\Rigs\ABP_Manny_PostProcess.uasset: [Compiler] ABP_Manny_PostProcess  - The skeleton asset for this animation Blueprint is missing, so it cannot be compiled!
+[2025.09.11-10.44.53:373][895]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/DevelopersFolder/YJH/YJH_Scarlett/Mannequin/Character_UE5/Rigs/ABP_Manny_PostProcess.ABP_Manny_PostProcess
+[2025.09.11-10.44.58:440][895]LogSlate: Window 'Message' being destroyed
+[2025.09.11-10.44.58:449][895]Message dialog closed, result: No, title: Message, text: Could not find the skeleton for Anim Blueprint 'ABP_Manny_PostProcess' Would you like to choose a new one?
+[2025.09.11-10.44.58:549][895]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_40
+[2025.09.11-10.44.58:576][895]LogAutomationController: Ignoring very large delta of 5.22 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.09.11-10.44.58:577][895]LoadErrors: Warning: While trying to load package /Game/DevelopersFolder/YJH/YJH_Scarlett/Mannequin/Character_UE5/Rigs/ABP_Manny_PostProcess, a dependent package /Game/ARPG_Samurai/Demo/Mannequin/Character_UE5/Rigs/CR_Mannequin_Procedural was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/ARPG_Samurai/Demo/Mannequin/Character_UE5/Rigs/CR_Mannequin_Procedural has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Content/ARPG_Samurai/Demo/Mannequin/Character_UE5/Rigs/CR_Mannequin_Procedural'. Perhaps it has been deleted or was not synced?
+
+[2025.09.11-10.44.58:577][895]LoadErrors: Warning: While trying to load package /Game/DevelopersFolder/YJH/YJH_Scarlett/Mannequin/Character_UE5/Rigs/ABP_Manny_PostProcess, a dependent package /Game/ARPG_Samurai/Demo/Mannequin/Character_UE5/Meshes/SK_Mannequin was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/ARPG_Samurai/Demo/Mannequin/Character_UE5/Meshes/SK_Mannequin has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Content/ARPG_Samurai/Demo/Mannequin/Character_UE5/Meshes/SK_Mannequin'. Perhaps it has been deleted or was not synced?
+
+[2025.09.11-10.44.58:577][895]LoadErrors: Warning: While trying to load package /Game/DevelopersFolder/YJH/YJH_Scarlett/Mannequin/Character_UE5/Rigs/ABP_Manny_PostProcess, a dependent package /Game/ARPG_Samurai/Demo/Mannequin/Character_UE5/Rigs/Poses/Manny/Manny_calf_l_pose was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/ARPG_Samurai/Demo/Mannequin/Character_UE5/Rigs/Poses/Manny/Manny_calf_l_pose has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Content/ARPG_Samurai/Demo/Mannequin/Character_UE5/Rigs/Poses/Manny/Manny_calf_l_pose'. Perhaps it has been deleted or was not synced?
+
+[2025.09.11-10.44.58:578][895]LoadErrors: Warning: While trying to load package /Game/DevelopersFolder/YJH/YJH_Scarlett/Mannequin/Character_UE5/Rigs/ABP_Manny_PostProcess, a dependent package /Game/ARPG_Samurai/Demo/Mannequin/Character_UE5/Rigs/Poses/Manny/Manny_calf_r_pose was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/ARPG_Samurai/Demo/Mannequin/Character_UE5/Rigs/Poses/Manny/Manny_calf_r_pose has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Content/ARPG_Samurai/Demo/Mannequin/Character_UE5/Rigs/Poses/Manny/Manny_calf_r_pose'. Perhaps it has been deleted or was not synced?
+
+[2025.09.11-10.44.58:578][895]LoadErrors: Warning: While trying to load package /Game/DevelopersFolder/YJH/YJH_Scarlett/Mannequin/Character_UE5/Rigs/ABP_Manny_PostProcess, a dependent package /Game/ARPG_Samurai/Demo/Mannequin/Character_UE5/Rigs/Poses/Manny/Manny_clavicle_l_pose was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/ARPG_Samurai/Demo/Mannequin/Character_UE5/Rigs/Poses/Manny/Manny_clavicle_l_pose has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Content/ARPG_Samurai/Demo/Mannequin/Character_UE5/Rigs/Poses/Manny/Manny_clavicle_l_pose'. Perhaps it has been deleted or was not synced?
+
+[2025.09.11-10.44.58:578][895]LoadErrors: Warning: While trying to load package /Game/DevelopersFolder/YJH/YJH_Scarlett/Mannequin/Character_UE5/Rigs/ABP_Manny_PostProcess, a dependent package /Game/ARPG_Samurai/Demo/Mannequin/Character_UE5/Rigs/Poses/Manny/Manny_clavicle_r_pose was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/ARPG_Samurai/Demo/Mannequin/Character_UE5/Rigs/Poses/Manny/Manny_clavicle_r_pose has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Content/ARPG_Samurai/Demo/Mannequin/Character_UE5/Rigs/Poses/Manny/Manny_clavicle_r_pose'. Perhaps it has been deleted or was not synced?
+
+[2025.09.11-10.44.58:578][895]LoadErrors: Warning: While trying to load package /Game/DevelopersFolder/YJH/YJH_Scarlett/Mannequin/Character_UE5/Rigs/ABP_Manny_PostProcess, a dependent package /Game/ARPG_Samurai/Demo/Mannequin/Character_UE5/Rigs/Poses/Manny/Manny_foot_l_pose was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/ARPG_Samurai/Demo/Mannequin/Character_UE5/Rigs/Poses/Manny/Manny_foot_l_pose has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Content/ARPG_Samurai/Demo/Mannequin/Character_UE5/Rigs/Poses/Manny/Manny_foot_l_pose'. Perhaps it has been deleted or was not synced?
+
+[2025.09.11-10.44.58:579][895]LoadErrors: Warning: While trying to load package /Game/DevelopersFolder/YJH/YJH_Scarlett/Mannequin/Character_UE5/Rigs/ABP_Manny_PostProcess, a dependent package /Game/ARPG_Samurai/Demo/Mannequin/Character_UE5/Rigs/Poses/Manny/Manny_foot_r_pose was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/ARPG_Samurai/Demo/Mannequin/Character_UE5/Rigs/Poses/Manny/Manny_foot_r_pose has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Content/ARPG_Samurai/Demo/Mannequin/Character_UE5/Rigs/Poses/Manny/Manny_foot_r_pose'. Perhaps it has been deleted or was not synced?
+
+[2025.09.11-10.44.58:579][895]LoadErrors: Warning: While trying to load package /Game/DevelopersFolder/YJH/YJH_Scarlett/Mannequin/Character_UE5/Rigs/ABP_Manny_PostProcess, a dependent package /Game/ARPG_Samurai/Demo/Mannequin/Character_UE5/Rigs/Poses/Manny/Manny_hand_l_pose was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/ARPG_Samurai/Demo/Mannequin/Character_UE5/Rigs/Poses/Manny/Manny_hand_l_pose has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Content/ARPG_Samurai/Demo/Mannequin/Character_UE5/Rigs/Poses/Manny/Manny_hand_l_pose'. Perhaps it has been deleted or was not synced?
+
+[2025.09.11-10.44.58:579][895]LoadErrors: Warning: While trying to load package /Game/DevelopersFolder/YJH/YJH_Scarlett/Mannequin/Character_UE5/Rigs/ABP_Manny_PostProcess, a dependent package /Game/ARPG_Samurai/Demo/Mannequin/Character_UE5/Rigs/Poses/Manny/Manny_hand_r_pose was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/ARPG_Samurai/Demo/Mannequin/Character_UE5/Rigs/Poses/Manny/Manny_hand_r_pose has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Content/ARPG_Samurai/Demo/Mannequin/Character_UE5/Rigs/Poses/Manny/Manny_hand_r_pose'. Perhaps it has been deleted or was not synced?
+
+[2025.09.11-10.44.58:580][895]LoadErrors: Warning: While trying to load package /Game/DevelopersFolder/YJH/YJH_Scarlett/Mannequin/Character_UE5/Rigs/ABP_Manny_PostProcess, a dependent package /Game/ARPG_Samurai/Demo/Mannequin/Character_UE5/Rigs/Poses/Manny/Manny_lowerarm_l_pose was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/ARPG_Samurai/Demo/Mannequin/Character_UE5/Rigs/Poses/Manny/Manny_lowerarm_l_pose has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Content/ARPG_Samurai/Demo/Mannequin/Character_UE5/Rigs/Poses/Manny/Manny_lowerarm_l_pose'. Perhaps it has been deleted or was not synced?
+
+[2025.09.11-10.44.58:580][895]LoadErrors: Warning: While trying to load package /Game/DevelopersFolder/YJH/YJH_Scarlett/Mannequin/Character_UE5/Rigs/ABP_Manny_PostProcess, a dependent package /Game/ARPG_Samurai/Demo/Mannequin/Character_UE5/Rigs/Poses/Manny/Manny_lowerarm_r_pose was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/ARPG_Samurai/Demo/Mannequin/Character_UE5/Rigs/Poses/Manny/Manny_lowerarm_r_pose has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Content/ARPG_Samurai/Demo/Mannequin/Character_UE5/Rigs/Poses/Manny/Manny_lowerarm_r_pose'. Perhaps it has been deleted or was not synced?
+
+[2025.09.11-10.44.58:580][895]LoadErrors: Warning: While trying to load package /Game/DevelopersFolder/YJH/YJH_Scarlett/Mannequin/Character_UE5/Rigs/ABP_Manny_PostProcess, a dependent package /Game/ARPG_Samurai/Demo/Mannequin/Character_UE5/Rigs/Poses/Manny/Manny_thigh_l_pose was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/ARPG_Samurai/Demo/Mannequin/Character_UE5/Rigs/Poses/Manny/Manny_thigh_l_pose has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Content/ARPG_Samurai/Demo/Mannequin/Character_UE5/Rigs/Poses/Manny/Manny_thigh_l_pose'. Perhaps it has been deleted or was not synced?
+
+[2025.09.11-10.44.58:580][895]LoadErrors: Warning: While trying to load package /Game/DevelopersFolder/YJH/YJH_Scarlett/Mannequin/Character_UE5/Rigs/ABP_Manny_PostProcess, a dependent package /Game/ARPG_Samurai/Demo/Mannequin/Character_UE5/Rigs/Poses/Manny/Manny_thigh_r_pose was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/ARPG_Samurai/Demo/Mannequin/Character_UE5/Rigs/Poses/Manny/Manny_thigh_r_pose has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Content/ARPG_Samurai/Demo/Mannequin/Character_UE5/Rigs/Poses/Manny/Manny_thigh_r_pose'. Perhaps it has been deleted or was not synced?
+
+[2025.09.11-10.44.58:581][895]LoadErrors: Warning: While trying to load package /Game/DevelopersFolder/YJH/YJH_Scarlett/Mannequin/Character_UE5/Rigs/ABP_Manny_PostProcess, a dependent package /Game/ARPG_Samurai/Demo/Mannequin/Character_UE5/Rigs/Poses/Manny/Manny_upperarm_l_pose was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/ARPG_Samurai/Demo/Mannequin/Character_UE5/Rigs/Poses/Manny/Manny_upperarm_l_pose has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Content/ARPG_Samurai/Demo/Mannequin/Character_UE5/Rigs/Poses/Manny/Manny_upperarm_l_pose'. Perhaps it has been deleted or was not synced?
+
+[2025.09.11-10.44.58:581][895]LoadErrors: Warning: While trying to load package /Game/DevelopersFolder/YJH/YJH_Scarlett/Mannequin/Character_UE5/Rigs/ABP_Manny_PostProcess, a dependent package /Game/ARPG_Samurai/Demo/Mannequin/Character_UE5/Rigs/Poses/Manny/Manny_upperarm_r_pose was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/ARPG_Samurai/Demo/Mannequin/Character_UE5/Rigs/Poses/Manny/Manny_upperarm_r_pose has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Content/ARPG_Samurai/Demo/Mannequin/Character_UE5/Rigs/Poses/Manny/Manny_upperarm_r_pose'. Perhaps it has been deleted or was not synced?
+
+[2025.09.11-10.45.01:210][127]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2025.09.11-10.45.01:210][127]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.11-10.45.01:235][127]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2025.09.11-10.45.01:235][127]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.11-10.45.01:282][127]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2025.09.11-10.45.01:282][127]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.11-10.45.01:336][127]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.09.11-10.45.03:494][351]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2025.09.11-10.45.03:494][351]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.11-10.45.03:521][351]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2025.09.11-10.45.03:521][351]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.11-10.45.03:576][351]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2025.09.11-10.45.03:576][351]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.11-10.45.03:608][351]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.09.11-10.45.04:596][426]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/DevelopersFolder/YJH/YJH_Scarlett/Mannequin/Character_UE5/Rigs/ABP_Manny_PostProcess.ABP_Manny_PostProcess
+[2025.09.11-10.45.07:756][426]LogSlate: Window 'Message' being destroyed
+[2025.09.11-10.45.07:763][426]Message dialog closed, result: Yes, title: Message, text: Could not find the skeleton for Anim Blueprint 'ABP_Manny_PostProcess' Would you like to choose a new one?
+[2025.09.11-10.45.07:958][426]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_41
+[2025.09.11-10.45.08:036][426]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2025.09.11-10.45.08:094][426]LogAutomationController: Ignoring very large delta of 3.50 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.09.11-10.45.13:227][948]LogSlate: Window 'Pick Replacement Skeleton' being destroyed
+[2025.09.11-10.45.14:923][ 95]LogStreaming: Display: FlushAsyncLoading(631): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.11-10.45.14:955][ 95]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Variant_SideScrolling/Anims/ABP_Manny_SideScroller.ABP_Manny_SideScroller
+[2025.09.11-10.45.14:956][ 95]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_42
+[2025.09.11-10.45.14:962][ 95]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_43
+[2025.09.11-10.45.14:968][ 95]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.11-10.45.15:274][ 95]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_44
+[2025.09.11-10.45.15:669][ 95]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_45
+[2025.09.11-10.45.22:790][837]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/Characters/Mannequins/Anims/Unarmed/BS_Idle_Walk_Run.BS_Idle_Walk_Run
+[2025.09.11-10.45.22:791][837]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_46
+[2025.09.11-10.45.22:798][837]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.11-10.45.23:055][837]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_47
+[2025.09.11-10.45.23:657][841]LogStreaming: Display: FlushAsyncLoading(632): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.11-10.45.23:657][841]LogStreaming: Warning: LoadPackage: SkipPackage: /Game/Characters/Mannequins/Meshes/SKM_Manny (0x566804FB3B2CBDE6) - The package to load does not exist on disk or in the loader
+[2025.09.11-10.45.23:657][841]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny'
+[2025.09.11-10.45.26:695][133]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2025.09.11-10.45.26:695][133]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.11-10.45.26:735][133]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2025.09.11-10.45.26:735][133]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.11-10.45.26:802][133]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.09.11-10.46.02:034][  0]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9116.264648
+[2025.09.11-10.46.02:286][ 28]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.11-10.46.02:286][ 28]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9116.505859, Update Interval: 352.935577
+[2025.09.11-10.52.29:439][958]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9502.999023
+[2025.09.11-10.52.30:445][961]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.11-10.52.30:445][961]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9503.671875, Update Interval: 312.034058
+[2025.09.11-10.58.28:518][ 35]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9862.078125
+[2025.09.11-10.58.29:521][ 38]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.11-10.58.29:521][ 38]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9862.746094, Update Interval: 335.270844
+[2025.09.11-11.04.53:922][191]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10247.463867
+[2025.09.11-11.04.54:918][194]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.11-11.04.54:918][194]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10248.127930, Update Interval: 353.274323
+[2025.09.11-11.11.42:156][740]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10655.700195
+[2025.09.11-11.11.42:404][763]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.11-11.11.42:404][763]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10655.932617, Update Interval: 356.379883
+[2025.09.11-11.11.55:379][827]LogStreaming: Display: FlushAsyncLoading(636): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.11-11.11.55:392][827]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/AttackAction_JWS/Upper_Anim1_Montage.Upper_Anim1_Montage
+[2025.09.11-11.11.55:392][827]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_48
+[2025.09.11-11.11.55:403][827]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_48:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.11-11.11.55:686][827]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_49
+[2025.09.11-11.16.02:357][146]LogDerivedDataCache: C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.09.11-11.16.12:021][743]LogStreaming: Display: FlushAsyncLoading(637): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.11-11.16.12:044][743]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Anims/Unarmed/Jump/MM_Dash.MM_Dash (Required Memory Estimate: 1.15 MB)
+[2025.09.11-11.16.12:051][743]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/Variant_Platforming/Anims/AM_Dash.AM_Dash
+[2025.09.11-11.16.12:064][743]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Anims/Unarmed/Jump/MM_Dash.MM_Dash, at AnimationSequence/cad1d085aff8c2662103a5219b522202a02c34b1
+[2025.09.11-11.16.12:264][746]LogStreaming: Display: FlushAsyncLoading(638): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.11-11.16.29:007][362]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_50
+[2025.09.11-11.16.38:791][956]LogStreaming: Display: FlushAsyncLoading(642): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.11-11.16.38:809][956]LogScript: Error: Script Msg: /Game/DevelopersFolder/YJH/YJH_CustomAnimation/AnimationSequence/Walk : Unable to retrieve target USkeleton for Animation Asset (/Game/DevelopersFolder/YJH/YJH_CustomAnimation/AnimationSequence/Walk.Walk)
+[2025.09.11-11.16.38:809][956]LogScript: Error: Script Msg: /Game/DevelopersFolder/YJH/YJH_CustomAnimation/AnimationSequence/Walk : Unable to initialize FKControlRig for AnimationSequencerDataModel for /Game/DevelopersFolder/YJH/YJH_CustomAnimation/AnimationSequence/Walk.Walk, provided FKControlRig is invalid
+[2025.09.11-11.16.38:809][956]LogScript: Error: Script Msg: /Game/DevelopersFolder/YJH/YJH_CustomAnimation/AnimationSequence/Walk : Invalid USkeleton supplied
+[2025.09.11-11.16.38:809][956]LogAnimation: Warning: Animation Compression request for Walk failed, Skeleton == nullptr.
+[2025.09.11-11.16.38:811][956]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/DevelopersFolder/YJH/YJH_CustomAnimation/AnimationSequence/Walk.Walk
+[2025.09.11-11.16.41:865][956]LogSlate: Window 'Message' being destroyed
+[2025.09.11-11.16.41:888][956]Message dialog closed, result: Cancel, title: Message, text: Could not find the skeleton for Anim 'Walk' Would you like to choose a new one?
+[2025.09.11-11.16.41:983][956]LogAutomationController: Ignoring very large delta of 3.19 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.09.11-11.16.41:984][956]LoadErrors: Warning: While trying to load package /Game/DevelopersFolder/YJH/YJH_CustomAnimation/AnimationSequence/Walk, a dependent package /Game/ARPG_Samurai/Demo/Mannequin/Character_UE5/Meshes/SK_Mannequin was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/ARPG_Samurai/Demo/Mannequin/Character_UE5/Meshes/SK_Mannequin has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Content/ARPG_Samurai/Demo/Mannequin/Character_UE5/Meshes/SK_Mannequin'. Perhaps it has been deleted or was not synced?
+
+[2025.09.11-11.16.59:252][ 42]LogStreaming: Display: FlushAsyncLoading(643): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.11-11.16.59:374][ 47]LogStreaming: Display: FlushAsyncLoading(644): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.11-11.17.00:122][114]LogStreaming: Display: FlushAsyncLoading(648): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.11-11.17.08:089][514]LogStreaming: Display: FlushAsyncLoading(651): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.11-11.17.08:132][514]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed.ABP_Unarmed
+[2025.09.11-11.17.08:133][514]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_51
+[2025.09.11-11.17.08:137][514]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_52
+[2025.09.11-11.17.08:143][514]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.11-11.17.08:479][514]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_53
+[2025.09.11-11.17.09:053][514]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_54
+[2025.09.11-11.17.25:119][190]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Variant_Platforming/Anims/ABP_Manny_Platforming.ABP_Manny_Platforming
+[2025.09.11-11.17.25:119][190]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_55
+[2025.09.11-11.17.25:125][190]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_56
+[2025.09.11-11.17.25:131][190]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_56:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.11-11.17.25:453][190]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_57
+[2025.09.11-11.17.38:663][469]LogWorld: UWorld::CleanupWorld for World_55, bSessionEnded=true, bCleanupResources=true
+[2025.09.11-11.17.38:664][469]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.11-11.17.38:689][469]LogWorld: UWorld::CleanupWorld for World_56, bSessionEnded=true, bCleanupResources=true
+[2025.09.11-11.17.38:689][469]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.11-11.17.38:734][469]LogWorld: UWorld::CleanupWorld for World_57, bSessionEnded=true, bCleanupResources=true
+[2025.09.11-11.17.38:734][469]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.11-11.17.38:911][469]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2025.09.11-11.17.39:904][571]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2025.09.11-11.17.39:904][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.11-11.17.39:926][571]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2025.09.11-11.17.39:926][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.11-11.17.39:970][571]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2025.09.11-11.17.39:970][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.11-11.17.40:004][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.09.11-11.17.45:389][ 57]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_58
+[2025.09.11-11.17.47:962][272]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_59
+[2025.09.11-11.17.47:987][272]LogWorld: UWorld::CleanupWorld for World_58, bSessionEnded=true, bCleanupResources=true
+[2025.09.11-11.17.47:987][272]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.11-11.17.48:055][273]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.09.11-11.17.49:920][436]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_60
+[2025.09.11-11.17.49:939][436]LogWorld: UWorld::CleanupWorld for World_59, bSessionEnded=true, bCleanupResources=true
+[2025.09.11-11.17.49:939][436]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.11-11.17.50:006][437]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.09.11-11.17.51:149][535]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_61
+[2025.09.11-11.17.51:173][535]LogWorld: UWorld::CleanupWorld for World_60, bSessionEnded=true, bCleanupResources=true
+[2025.09.11-11.17.51:173][535]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.11-11.17.51:239][536]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.09.11-11.17.58:675][112]LogStreaming: Display: FlushAsyncLoading(652): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.11-11.18.00:507][275]LogStreaming: Display: FlushAsyncLoading(654): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.11-11.18.02:182][409]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_62
+[2025.09.11-11.18.02:207][409]LogWorld: UWorld::CleanupWorld for World_61, bSessionEnded=true, bCleanupResources=true
+[2025.09.11-11.18.02:207][409]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.11-11.18.02:282][410]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.09.11-11.18.03:652][517]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_63
+[2025.09.11-11.18.03:672][517]LogWorld: UWorld::CleanupWorld for World_62, bSessionEnded=true, bCleanupResources=true
+[2025.09.11-11.18.03:672][517]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.11-11.18.03:742][518]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.09.11-11.18.06:666][767]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_64
+[2025.09.11-11.18.06:690][767]LogWorld: UWorld::CleanupWorld for World_63, bSessionEnded=true, bCleanupResources=true
+[2025.09.11-11.18.06:690][767]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.11-11.18.06:755][768]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.09.11-11.18.14:370][171]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11047.943359
+[2025.09.11-11.18.14:672][181]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.11-11.18.14:672][181]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11048.200195, Update Interval: 344.483154
+[2025.09.11-11.18.18:276][351]LogStreaming: Display: FlushAsyncLoading(655): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.11-11.18.18:290][351]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Anims/Pistol/Walk/MF_Pistol_Walk_Fwd.MF_Pistol_Walk_Fwd (Required Memory Estimate: 21.13 MB)
+[2025.09.11-11.18.18:399][351]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_65
+[2025.09.11-11.18.18:418][351]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Anims/Pistol/Walk/MF_Pistol_Walk_Fwd.MF_Pistol_Walk_Fwd, at AnimationSequence/15a50cc0cb8ab1fcf4b0dda02e7c58701f5f9342
+[2025.09.11-11.18.18:420][351]LogWorld: UWorld::CleanupWorld for World_64, bSessionEnded=true, bCleanupResources=true
+[2025.09.11-11.18.18:420][351]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.11-11.18.18:496][352]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.09.11-11.18.25:000][716]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed.ABP_Unarmed
+[2025.09.11-11.18.25:000][716]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_66
+[2025.09.11-11.18.25:005][716]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_67
+[2025.09.11-11.18.25:011][716]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_67:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.11-11.18.25:335][716]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_68
+[2025.09.11-11.18.47:303][760]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/Characters/Mannequins/Anims/Unarmed/BS_Idle_Walk_Run.BS_Idle_Walk_Run
+[2025.09.11-11.18.47:410][760]LogWorld: UWorld::CleanupWorld for World_65, bSessionEnded=true, bCleanupResources=true
+[2025.09.11-11.18.47:410][760]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.11-11.18.47:542][761]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.09.11-11.18.47:603][763]LogStreaming: Display: FlushAsyncLoading(656): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.11-11.18.56:802][591]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2025.09.11-11.18.56:802][591]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.11-11.18.56:846][591]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2025.09.11-11.18.56:847][591]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.11-11.18.56:880][591]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.09.11-11.19.45:715][325]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.09.11-11.19.45:720][325]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DevelopersFolder/MainDevelopMap' took 0.030
+[2025.09.11-11.19.45:721][325]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Variant_SideScrolling/Anims/ABP_Manny_SideScroller] ([2] browsable assets)...
+[2025.09.11-11.19.45:827][325]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Variant_SideScrolling/Anims/ABP_Manny_SideScroller.ABP_Manny_SideScroller]
+[2025.09.11-11.19.45:827][325]OBJ SavePackage: Finished generating thumbnails for package [/Game/Variant_SideScrolling/Anims/ABP_Manny_SideScroller]
+[2025.09.11-11.19.45:896][325]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Variant_SideScrolling/Anims/ABP_Manny_SideScroller_Auto6
+[2025.09.11-11.19.45:896][325]LogSavePackage: Moving '../../../../Unreal5.6/DustellarFighterProject/DustellarProject/Saved/ABP_Manny_SideScroller_Auto6E775AA4644BC6E44A3EAE1BAC93337E2.tmp' to '../../../../Unreal5.6/DustellarFighterProject/DustellarProject/Saved/Autosaves/Game/Variant_SideScrolling/Anims/ABP_Manny_SideScroller_Auto6.uasset'
+[2025.09.11-11.19.45:898][325]LogFileHelpers: Auto-saving content packages took 0.177
+[2025.09.11-11.20.28:088][819]LogStreaming: Display: FlushAsyncLoading(660): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.11-11.20.28:283][828]LogStreaming: Display: FlushAsyncLoading(662): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.11-11.20.28:859][879]LogStreaming: Display: FlushAsyncLoading(666): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.11-11.20.29:453][935]LogStreaming: Display: FlushAsyncLoading(669): 1 QueuedPackages, 0 AsyncPackages
