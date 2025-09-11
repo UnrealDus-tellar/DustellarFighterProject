@@ -92,7 +92,7 @@ struct Z_Construct_UClass_AEVE_Statics
 		{ "ToolTip", "@@tpscamera \xc4\xb3\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xcd\xb8\xef\xbf\xbd 3\xef\xbf\xbd\xef\xbf\xbd\xc4\xaa\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd \xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xd6\xb4\xef\xbf\xbd" },
 #endif
 	};
-	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_imc_TPS_MetaData[] = {
+	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_imc_EVE_MetaData[] = {
 		{ "Category", "Input" },
 		{ "ModuleRelativePath", "Public/EVE.h" },
 	};
@@ -167,7 +167,7 @@ struct Z_Construct_UClass_AEVE_Statics
 #endif // WITH_METADATA
 	static const UECodeGen_Private::FObjectPropertyParams NewProp_springArmComp;
 	static const UECodeGen_Private::FObjectPropertyParams NewProp_tpsCamComp;
-	static const UECodeGen_Private::FObjectPropertyParams NewProp_imc_TPS;
+	static const UECodeGen_Private::FObjectPropertyParams NewProp_imc_EVE;
 	static const UECodeGen_Private::FObjectPropertyParams NewProp_ia_LookUp;
 	static const UECodeGen_Private::FObjectPropertyParams NewProp_ia_Turn;
 	static const UECodeGen_Private::FObjectPropertyParams NewProp_ia_Move;
@@ -186,7 +186,7 @@ struct Z_Construct_UClass_AEVE_Statics
 };
 const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_AEVE_Statics::NewProp_springArmComp = { "springArmComp", nullptr, (EPropertyFlags)0x00100000000a0009, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(AEVE, springArmComp), Z_Construct_UClass_USpringArmComponent_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_springArmComp_MetaData), NewProp_springArmComp_MetaData) };
 const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_AEVE_Statics::NewProp_tpsCamComp = { "tpsCamComp", nullptr, (EPropertyFlags)0x001000000008001c, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(AEVE, tpsCamComp), Z_Construct_UClass_UCameraComponent_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_tpsCamComp_MetaData), NewProp_tpsCamComp_MetaData) };
-const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_AEVE_Statics::NewProp_imc_TPS = { "imc_TPS", nullptr, (EPropertyFlags)0x0010000000010001, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(AEVE, imc_TPS), Z_Construct_UClass_UInputMappingContext_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_imc_TPS_MetaData), NewProp_imc_TPS_MetaData) };
+const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_AEVE_Statics::NewProp_imc_EVE = { "imc_EVE", nullptr, (EPropertyFlags)0x0010000000010001, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(AEVE, imc_EVE), Z_Construct_UClass_UInputMappingContext_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_imc_EVE_MetaData), NewProp_imc_EVE_MetaData) };
 const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_AEVE_Statics::NewProp_ia_LookUp = { "ia_LookUp", nullptr, (EPropertyFlags)0x0010000000010001, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(AEVE, ia_LookUp), Z_Construct_UClass_UInputAction_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_ia_LookUp_MetaData), NewProp_ia_LookUp_MetaData) };
 const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_AEVE_Statics::NewProp_ia_Turn = { "ia_Turn", nullptr, (EPropertyFlags)0x0010000000010001, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(AEVE, ia_Turn), Z_Construct_UClass_UInputAction_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_ia_Turn_MetaData), NewProp_ia_Turn_MetaData) };
 const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_AEVE_Statics::NewProp_ia_Move = { "ia_Move", nullptr, (EPropertyFlags)0x0010000000010001, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(AEVE, ia_Move), Z_Construct_UClass_UInputAction_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_ia_Move_MetaData), NewProp_ia_Move_MetaData) };
@@ -199,7 +199,7 @@ const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_AEVE_Statics::
 const UECodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_AEVE_Statics::PropPointers[] = {
 	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AEVE_Statics::NewProp_springArmComp,
 	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AEVE_Statics::NewProp_tpsCamComp,
-	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AEVE_Statics::NewProp_imc_TPS,
+	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AEVE_Statics::NewProp_imc_EVE,
 	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AEVE_Statics::NewProp_ia_LookUp,
 	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AEVE_Statics::NewProp_ia_Turn,
 	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AEVE_Statics::NewProp_ia_Move,
@@ -247,10 +247,10 @@ AEVE::~AEVE() {}
 struct Z_CompiledInDeferFile_FID_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Public_EVE_h__Script_DustellarProject_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
-		{ Z_Construct_UClass_AEVE, AEVE::StaticClass, TEXT("AEVE"), &Z_Registration_Info_UClass_AEVE, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AEVE), 1300809245U) },
+		{ Z_Construct_UClass_AEVE, AEVE::StaticClass, TEXT("AEVE"), &Z_Registration_Info_UClass_AEVE, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AEVE), 592836342U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Public_EVE_h__Script_DustellarProject_1923031858(TEXT("/Script/DustellarProject"),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Public_EVE_h__Script_DustellarProject_2784450960(TEXT("/Script/DustellarProject"),
 	Z_CompiledInDeferFile_FID_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Public_EVE_h__Script_DustellarProject_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Public_EVE_h__Script_DustellarProject_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);

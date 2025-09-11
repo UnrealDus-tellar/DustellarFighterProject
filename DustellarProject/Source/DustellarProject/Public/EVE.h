@@ -43,7 +43,7 @@ public:
 	class UCameraComponent* tpsCamComp;
 
 	UPROPERTY(EditDefaultsOnly, Category = "Input")
-	class UInputMappingContext* imc_TPS;
+	class UInputMappingContext* imc_EVE;
 
 	UPROPERTY(EditDefaultsOnly, Category = "Input")
 	class UInputAction* ia_LookUp;

@@ -1851,3 +1851,387 @@ Would you like to reload these packages? This will revert any changes you have m
 [2025.09.11-08.36.19:223][790]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1333.077026
 [2025.09.11-08.36.20:221][793]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.09.11-08.36.20:221][793]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1333.741577, Update Interval: 306.630463
+[2025.09.11-08.38.47:904][ 29]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2025.09.11-08.40.15:175][658]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/Input/Actions/IA_Move.IA_Move
+[2025.09.11-08.41.26:809][ 27]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/Input/Actions/IA_Jump.IA_Jump
+[2025.09.11-08.41.29:675][257]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/Input/Actions/IA_Look.IA_Look
+[2025.09.11-08.41.35:381][819]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/Input/Actions/IA_MouseLook.IA_MouseLook
+[2025.09.11-08.41.37:483][977]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/Input/Actions/IA_Move.IA_Move
+[2025.09.11-08.41.43:288][537]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1657.141846
+[2025.09.11-08.41.43:538][552]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.11-08.41.43:538][552]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1657.380981, Update Interval: 323.927124
+[2025.09.11-08.43.07:808][288]Candidate modules for hot reload:
+[2025.09.11-08.43.07:808][288]  DustellarProject
+[2025.09.11-08.43.07:816][288]Launching UnrealBuildTool... [C:/Users/user/Documents/UE_5.6/Engine/Build/BatchFiles/Build.bat  -ModuleWithSuffix=DustellarProject,0778 DustellarProjectEditor Win64 Development -Project="C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/DustellarProject.uproject" "C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/DustellarProject.uproject"  -IgnoreJunk]
+[2025.09.11-08.43.07:823][288]Warning: Starting HotReload took  0.1s.
+[2025.09.11-08.43.17:889][255]CompilerResultsLog: Build.bat is already running, waiting for existing script to terminate...
+[2025.09.11-08.43.17:889][255]CompilerResultsLog: Using bundled DotNet SDK version: 8.0.300 win-x64
+[2025.09.11-08.43.17:889][255]CompilerResultsLog: Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -ModuleWithSuffix=DustellarProject,0778 DustellarProjectEditor Win64 Development -Project="C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/DustellarProject.uproject" "C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/DustellarProject.uproject"  -IgnoreJunk
+[2025.09.11-08.43.17:889][255]CompilerResultsLog: Log file: C:\Users\user\AppData\Local\UnrealBuildTool\Log.txt
+[2025.09.11-08.43.17:889][255]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\user\Documents\Unreal5.6\DustellarFighterProject).
+[2025.09.11-08.43.17:889][255]CompilerResultsLog: Creating makefile for DustellarProjectEditor (command line arguments changed)
+[2025.09.11-08.43.17:889][255]CompilerResultsLog: Building DustellarProjectEditor...
+[2025.09.11-08.43.17:889][255]CompilerResultsLog: Using Visual Studio 2022 14.38.33145 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130) and Windows 10.0.26100.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2025.09.11-08.43.17:889][255]CompilerResultsLog: Determining max actions to execute in parallel (6 physical cores, 12 logical cores)
+[2025.09.11-08.43.17:889][255]CompilerResultsLog:   Executing up to 6 processes, one per physical core
+[2025.09.11-08.43.17:889][255]CompilerResultsLog: Using Unreal Build Accelerator local executor to run 9 action(s)
+[2025.09.11-08.43.17:889][255]CompilerResultsLog:   Storage capacity 40Gb
+[2025.09.11-08.43.17:889][255]CompilerResultsLog: ---- Starting trace: 250911_174312_vs18952 ----
+[2025.09.11-08.43.17:889][255]CompilerResultsLog: UbaServer - Listening on 0.0.0.0:1345
+[2025.09.11-08.43.17:889][255]CompilerResultsLog: ------ Building 9 action(s) started ------
+[2025.09.11-08.43.17:889][255]CompilerResultsLog: [1/9] Link [x64] UnrealEditor-VisualStudioBlueprintDebuggerHelper-0006.lib
+[2025.09.11-08.43.17:889][255]CompilerResultsLog:    C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Plugins/VisualStudioTools/Intermediate/Build/Win64/x64/UnrealEditor/Development/VisualStudioBlueprintDebuggerHelper/UnrealEditor-VisualStudioBlueprintDebuggerHelper-0006.lib ??̺귯?? ??C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Plugins/VisualStudioTools/Intermediate/Build/Win64/x64/UnrealEditor/Development/VisualStudioBlueprintDebuggerHelper/UnrealEditor-VisualStudioBlueprintDebuggerHelper-0006.exp ??ü?? ??ϰ????ϴ?
+[2025.09.11-08.43.17:889][255]CompilerResultsLog: [2/9] Link [x64] UnrealEditor-VisualStudioTools-0006.lib
+[2025.09.11-08.43.17:889][255]CompilerResultsLog:    C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Plugins/VisualStudioTools/Intermediate/Build/Win64/x64/UnrealEditor/Development/VisualStudioTools/UnrealEditor-VisualStudioTools-0006.lib ??̺귯?? ??C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Plugins/VisualStudioTools/Intermediate/Build/Win64/x64/UnrealEditor/Development/VisualStudioTools/UnrealEditor-VisualStudioTools-0006.exp ??ü?? ??ϰ????ϴ?
+[2025.09.11-08.43.17:889][255]CompilerResultsLog: [3/9] Link [x64] UnrealEditor-VisualStudioBlueprintDebuggerHelper-0006.dll
+[2025.09.11-08.43.17:889][255]CompilerResultsLog: [4/9] Link [x64] UnrealEditor-VisualStudioTools-0006.dll
+[2025.09.11-08.43.17:889][255]CompilerResultsLog: [5/9] Compile [x64] Module.DustellarProject.2.cpp
+[2025.09.11-08.43.17:889][255]CompilerResultsLog: [6/9] Compile [x64] Module.DustellarProject.3.cpp
+[2025.09.11-08.43.17:889][255]CompilerResultsLog: C:\Users\user\Documents\Unreal5.6\DustellarFighterProject\DustellarProject\Source\DustellarProject\Private\EVE.cpp(92,33): error C2065: 'imc_TPS': ????? ??? ?ĺ????ϴ?
+[2025.09.11-08.43.17:889][255]CompilerResultsLog:             subsystem->AddMappingContext(imc_TPS, 0);
+[2025.09.11-08.43.17:889][255]CompilerResultsLog:                                          ^
+[2025.09.11-08.43.17:889][255]CompilerResultsLog: Trace written to file C:/Users/user/AppData/Local/UnrealBuildTool/Log.uba with size 4.4kb
+[2025.09.11-08.43.17:889][255]CompilerResultsLog: Total time in Unreal Build Accelerator local executor: 4.93 seconds
+[2025.09.11-08.43.17:889][256]CompilerResultsLog: 
+[2025.09.11-08.43.17:889][256]CompilerResultsLog: Result: Failed (OtherCompilationError)
+[2025.09.11-08.43.17:889][256]CompilerResultsLog: Total execution time: 8.75 seconds
+[2025.09.11-08.43.17:889][256]LogMainFrame: MainFrame: Module compiling took 10.090 seconds
+[2025.09.11-08.43.17:889][256]Warning: HotReload failed, recompile failed
+[2025.09.11-08.43.17:919][256]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+3f0, getting last resort font data ../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf
+[2025.09.11-08.43.17:919][256]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+3f4, getting last resort font data ../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf
+[2025.09.11-08.43.17:919][256]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+3f0, getting last resort font data ../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf
+[2025.09.11-08.43.17:919][256]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+3f4, getting last resort font data ../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf
+[2025.09.11-08.43.17:919][256]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+3f4, getting last resort font data ../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf
+[2025.09.11-08.43.20:398][532]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+3f0, getting last resort font data ../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf
+[2025.09.11-08.43.20:398][532]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+3f4, getting last resort font data ../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf
+[2025.09.11-08.43.20:399][532]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+3f0, getting last resort font data ../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf
+[2025.09.11-08.43.20:399][532]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+3f4, getting last resort font data ../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf
+[2025.09.11-08.43.21:336][636]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+3f4, getting last resort font data ../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf
+[2025.09.11-08.43.22:677][789]LogSlate: Window 'Message Log' being destroyed
+[2025.09.11-08.43.22:682][789]LogSlate: Window 'Message Log' being destroyed
+[2025.09.11-08.43.24:025][937]Candidate modules for hot reload:
+[2025.09.11-08.43.24:026][937]  DustellarProject
+[2025.09.11-08.43.24:031][937]Launching UnrealBuildTool... [C:/Users/user/Documents/UE_5.6/Engine/Build/BatchFiles/Build.bat  -ModuleWithSuffix=DustellarProject,2088 DustellarProjectEditor Win64 Development -Project="C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/DustellarProject.uproject" "C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/DustellarProject.uproject"  -IgnoreJunk]
+[2025.09.11-08.43.24:036][937]Warning: Starting HotReload took  0.0s.
+[2025.09.11-08.43.28:905][171]CompilerResultsLog: Using bundled DotNet SDK version: 8.0.300 win-x64
+[2025.09.11-08.43.28:905][171]CompilerResultsLog: Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -ModuleWithSuffix=DustellarProject,2088 DustellarProjectEditor Win64 Development -Project="C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/DustellarProject.uproject" "C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/DustellarProject.uproject"  -IgnoreJunk
+[2025.09.11-08.43.28:905][171]CompilerResultsLog: Log file: C:\Users\user\AppData\Local\UnrealBuildTool\Log.txt
+[2025.09.11-08.43.28:905][171]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\user\Documents\Unreal5.6\DustellarFighterProject).
+[2025.09.11-08.43.28:905][171]CompilerResultsLog: Building DustellarProjectEditor...
+[2025.09.11-08.43.28:905][171]CompilerResultsLog: Using Visual Studio 2022 14.38.33145 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130) and Windows 10.0.26100.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2025.09.11-08.43.28:905][171]CompilerResultsLog: Determining max actions to execute in parallel (6 physical cores, 12 logical cores)
+[2025.09.11-08.43.28:905][171]CompilerResultsLog:   Executing up to 6 processes, one per physical core
+[2025.09.11-08.43.28:905][171]CompilerResultsLog: Using Unreal Build Accelerator local executor to run 8 action(s)
+[2025.09.11-08.43.28:905][171]CompilerResultsLog:   Storage capacity 40Gb
+[2025.09.11-08.43.28:905][171]CompilerResultsLog: ---- Starting trace: 250911_174325_vs18952 ----
+[2025.09.11-08.43.28:905][171]CompilerResultsLog: UbaServer - Listening on 0.0.0.0:1345
+[2025.09.11-08.43.28:905][171]CompilerResultsLog: ------ Building 8 action(s) started ------
+[2025.09.11-08.43.28:905][171]CompilerResultsLog: [1/8] Link [x64] UnrealEditor-VisualStudioBlueprintDebuggerHelper-0007.lib
+[2025.09.11-08.43.28:905][171]CompilerResultsLog:    C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Plugins/VisualStudioTools/Intermediate/Build/Win64/x64/UnrealEditor/Development/VisualStudioBlueprintDebuggerHelper/UnrealEditor-VisualStudioBlueprintDebuggerHelper-0007.lib ??̺귯?? ??C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Plugins/VisualStudioTools/Intermediate/Build/Win64/x64/UnrealEditor/Development/VisualStudioBlueprintDebuggerHelper/UnrealEditor-VisualStudioBlueprintDebuggerHelper-0007.exp ??ü?? ??ϰ????ϴ?
+[2025.09.11-08.43.28:905][171]CompilerResultsLog: [2/8] Link [x64] UnrealEditor-VisualStudioTools-0007.lib
+[2025.09.11-08.43.28:905][171]CompilerResultsLog:    C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Plugins/VisualStudioTools/Intermediate/Build/Win64/x64/UnrealEditor/Development/VisualStudioTools/UnrealEditor-VisualStudioTools-0007.lib ??̺귯?? ??C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Plugins/VisualStudioTools/Intermediate/Build/Win64/x64/UnrealEditor/Development/VisualStudioTools/UnrealEditor-VisualStudioTools-0007.exp ??ü?? ??ϰ????ϴ?
+[2025.09.11-08.43.28:905][171]CompilerResultsLog: [3/8] Link [x64] UnrealEditor-VisualStudioBlueprintDebuggerHelper-0007.dll
+[2025.09.11-08.43.28:905][171]CompilerResultsLog: [4/8] Link [x64] UnrealEditor-VisualStudioTools-0007.dll
+[2025.09.11-08.43.28:905][171]CompilerResultsLog: [5/8] Compile [x64] Module.DustellarProject.3.cpp
+[2025.09.11-08.43.28:905][171]CompilerResultsLog: C:\Users\user\Documents\Unreal5.6\DustellarFighterProject\DustellarProject\Source\DustellarProject\Private\EVE.cpp(92,33): error C2065: 'imc_TPS': ????? ??? ?ĺ????ϴ?
+[2025.09.11-08.43.28:905][171]CompilerResultsLog:             subsystem->AddMappingContext(imc_TPS, 0);
+[2025.09.11-08.43.28:905][171]CompilerResultsLog:                                          ^
+[2025.09.11-08.43.28:905][171]CompilerResultsLog: Trace written to file C:/Users/user/AppData/Local/UnrealBuildTool/Log.uba with size 4.1kb
+[2025.09.11-08.43.28:905][171]CompilerResultsLog: Total time in Unreal Build Accelerator local executor: 3.67 seconds
+[2025.09.11-08.43.28:905][172]CompilerResultsLog: 
+[2025.09.11-08.43.28:905][172]CompilerResultsLog: Result: Failed (OtherCompilationError)
+[2025.09.11-08.43.28:905][172]CompilerResultsLog: Total execution time: 4.73 seconds
+[2025.09.11-08.43.28:905][172]LogMainFrame: MainFrame: Module compiling took 4.887 seconds
+[2025.09.11-08.43.28:905][172]Warning: HotReload failed, recompile failed
+[2025.09.11-08.43.29:265][172]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+3f0, getting last resort font data ../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf
+[2025.09.11-08.43.29:265][172]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+3f4, getting last resort font data ../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf
+[2025.09.11-08.43.29:265][172]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+3f0, getting last resort font data ../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf
+[2025.09.11-08.43.29:265][172]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+3f4, getting last resort font data ../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf
+[2025.09.11-08.43.29:265][172]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+3f4, getting last resort font data ../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf
+[2025.09.11-08.44.10:593][664]Candidate modules for hot reload:
+[2025.09.11-08.44.10:593][664]  DustellarProject
+[2025.09.11-08.44.10:598][664]Launching UnrealBuildTool... [C:/Users/user/Documents/UE_5.6/Engine/Build/BatchFiles/Build.bat  -ModuleWithSuffix=DustellarProject,2785 DustellarProjectEditor Win64 Development -Project="C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/DustellarProject.uproject" "C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/DustellarProject.uproject"  -IgnoreJunk]
+[2025.09.11-08.44.10:603][664]Warning: Starting HotReload took  0.0s.
+[2025.09.11-08.44.13:827][914]CompilerResultsLog: Using bundled DotNet SDK version: 8.0.300 win-x64
+[2025.09.11-08.44.13:827][914]CompilerResultsLog: Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -ModuleWithSuffix=DustellarProject,2785 DustellarProjectEditor Win64 Development -Project="C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/DustellarProject.uproject" "C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/DustellarProject.uproject"  -IgnoreJunk
+[2025.09.11-08.44.13:827][914]CompilerResultsLog: Log file: C:\Users\user\AppData\Local\UnrealBuildTool\Log.txt
+[2025.09.11-08.44.13:827][914]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\user\Documents\Unreal5.6\DustellarFighterProject).
+[2025.09.11-08.44.13:828][914]CompilerResultsLog: Building DustellarProjectEditor...
+[2025.09.11-08.44.13:828][914]CompilerResultsLog: Using Visual Studio 2022 14.38.33145 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130) and Windows 10.0.26100.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2025.09.11-08.44.13:828][914]CompilerResultsLog: Determining max actions to execute in parallel (6 physical cores, 12 logical cores)
+[2025.09.11-08.44.13:828][914]CompilerResultsLog:   Executing up to 6 processes, one per physical core
+[2025.09.11-08.44.13:828][914]CompilerResultsLog: Using Unreal Build Accelerator local executor to run 7 action(s)
+[2025.09.11-08.44.13:828][914]CompilerResultsLog:   Storage capacity 40Gb
+[2025.09.11-08.44.13:828][914]CompilerResultsLog: ---- Starting trace: 250911_174411_vs18952 ----
+[2025.09.11-08.44.13:828][914]CompilerResultsLog: UbaServer - Listening on 0.0.0.0:1345
+[2025.09.11-08.44.13:828][914]CompilerResultsLog: ------ Building 7 action(s) started ------
+[2025.09.11-08.44.13:828][914]CompilerResultsLog: [1/7] Link [x64] UnrealEditor-VisualStudioBlueprintDebuggerHelper-0010.lib
+[2025.09.11-08.44.13:828][914]CompilerResultsLog:    C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Plugins/VisualStudioTools/Intermediate/Build/Win64/x64/UnrealEditor/Development/VisualStudioBlueprintDebuggerHelper/UnrealEditor-VisualStudioBlueprintDebuggerHelper-0010.lib ??̺귯?? ??C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Plugins/VisualStudioTools/Intermediate/Build/Win64/x64/UnrealEditor/Development/VisualStudioBlueprintDebuggerHelper/UnrealEditor-VisualStudioBlueprintDebuggerHelper-0010.exp ??ü?? ??ϰ????ϴ?
+[2025.09.11-08.44.13:828][914]CompilerResultsLog: [2/7] Link [x64] UnrealEditor-VisualStudioTools-0010.lib
+[2025.09.11-08.44.13:828][914]CompilerResultsLog:    C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Plugins/VisualStudioTools/Intermediate/Build/Win64/x64/UnrealEditor/Development/VisualStudioTools/UnrealEditor-VisualStudioTools-0010.lib ??̺귯?? ??C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Plugins/VisualStudioTools/Intermediate/Build/Win64/x64/UnrealEditor/Development/VisualStudioTools/UnrealEditor-VisualStudioTools-0010.exp ??ü?? ??ϰ????ϴ?
+[2025.09.11-08.44.13:828][914]CompilerResultsLog: [3/7] Link [x64] UnrealEditor-DustellarProject-2785.lib
+[2025.09.11-08.44.13:828][914]CompilerResultsLog:    C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Intermediate/Build/Win64/x64/UnrealEditor/Development/DustellarProject/UnrealEditor-DustellarProject-2785.lib ??̺귯?? ??C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Intermediate/Build/Win64/x64/UnrealEditor/Development/DustellarProject/UnrealEditor-DustellarProject-2785.exp ??ü?? ??ϰ????ϴ?
+[2025.09.11-08.44.13:828][914]CompilerResultsLog: [4/7] Link [x64] UnrealEditor-VisualStudioTools-0010.dll
+[2025.09.11-08.44.13:828][914]CompilerResultsLog: [5/7] Link [x64] UnrealEditor-DustellarProject-2785.dll
+[2025.09.11-08.44.13:828][914]CompilerResultsLog: [6/7] Link [x64] UnrealEditor-VisualStudioBlueprintDebuggerHelper-0010.dll
+[2025.09.11-08.44.13:828][914]CompilerResultsLog: [7/7] WriteMetadata DustellarProjectEditor.target (UBA disabled)
+[2025.09.11-08.44.13:828][914]CompilerResultsLog: Trace written to file C:/Users/user/AppData/Local/UnrealBuildTool/Log.uba with size 4.0kb
+[2025.09.11-08.44.13:828][914]CompilerResultsLog: Total time in Unreal Build Accelerator local executor: 1.92 seconds
+[2025.09.11-08.44.13:828][914]CompilerResultsLog: 
+[2025.09.11-08.44.13:828][914]CompilerResultsLog: Result: Succeeded
+[2025.09.11-08.44.13:828][914]CompilerResultsLog: Total execution time: 3.07 seconds
+[2025.09.11-08.44.13:828][914]LogMainFrame: MainFrame: Module compiling took 3.247 seconds
+[2025.09.11-08.44.13:947][914]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.09.11-08.44.13:991][914]LogClass: UPackage /Script/DustellarProject Reload.
+[2025.09.11-08.44.13:992][914]LogClass: UClass EVE Reload.
+[2025.09.11-08.44.14:034][914]LogClass: Could not find existing class EVE in package /Script/DustellarProject for reload, assuming new or modified class
+[2025.09.11-08.44.14:109][914]Re-instancing EVE after reload.
+[2025.09.11-08.44.14:423][914]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.09.11-08.44.14:445][914]Display: HotReload took  3.9s.
+[2025.09.11-08.44.14:445][914]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed, 46 classes unchanged, 2 enums unchanged, 16 scriptstructs unchanged, 59 functions remapped, 16 scriptstructs remapped
+[2025.09.11-08.44.14:958][915]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+3f0, getting last resort font data ../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf
+[2025.09.11-08.44.14:959][915]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+3f4, getting last resort font data ../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf
+[2025.09.11-08.44.14:959][915]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+3f0, getting last resort font data ../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf
+[2025.09.11-08.44.14:959][915]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+3f4, getting last resort font data ../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf
+[2025.09.11-08.44.14:959][915]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+3f0, getting last resort font data ../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf
+[2025.09.11-08.44.14:959][915]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+3f4, getting last resort font data ../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf
+[2025.09.11-08.44.38:237][946]LogContentBrowser: Deferred new asset file creation: NewInputMappingContext
+[2025.09.11-08.44.38:248][946]LogContentBrowser: Creating deferred item: NewInputMappingContext
+[2025.09.11-08.44.38:263][947]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputMappingContext).
+[2025.09.11-08.44.42:827][415]LogContentBrowser: Attempting asset rename: NewInputMappingContext -> IMC_EVE
+[2025.09.11-08.44.42:843][415]LogContentBrowser: End creating deferred item NewInputMappingContext
+[2025.09.11-08.44.43:681][508]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/Input/IMC_EVE.IMC_EVE
+[2025.09.11-08.45.55:700][714]LogEditorClassViewer: Warning: Class /Game/ThirdPerson/BP_EnemyCharacter.BP_EnemyCharacter_C has parent /Script/StellarFighter.EnemyCharacter, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.09.11-08.46.30:060][850]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.11-08.46.30:131][850]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/IMC_EVE] ([1] browsable assets)...
+[2025.09.11-08.46.30:131][850]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/IMC_EVE]
+[2025.09.11-08.46.30:131][850]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/IMC_EVE" FILE="../../../../Unreal5.6/DustellarFighterProject/DustellarProject/Content/Input/IMC_EVE.uasset" SILENT=true
+[2025.09.11-08.46.30:147][850]LogSavePackage: Moving output files for package: /Game/Input/IMC_EVE
+[2025.09.11-08.46.30:147][850]LogSavePackage: Moving '../../../../Unreal5.6/DustellarFighterProject/DustellarProject/Saved/IMC_EVE761763224D3DB21ABA9A06AE7A56AF69.tmp' to '../../../../Unreal5.6/DustellarFighterProject/DustellarProject/Content/Input/IMC_EVE.uasset'
+[2025.09.11-08.46.30:161][850]LogFileHelpers: InternalPromptForCheckoutAndSave took 101.787 ms
+[2025.09.11-08.46.30:220][850]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.11-08.46.30:220][850]LogContentValidation: Enabled validators:
+[2025.09.11-08.46.30:220][850]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.11-08.46.30:220][850]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.11-08.46.30:220][850]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.11-08.46.30:220][850]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.11-08.46.30:220][850]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.11-08.46.30:220][850]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.11-08.46.30:221][850]AssetCheck: /Game/Input/IMC_EVE Validating asset
+[2025.09.11-08.46.30:250][850]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../Unreal5.6/DustellarFighterProject/DustellarProject/Saved/SourceControl/UncontrolledChangelists.json
+[2025.09.11-08.46.51:308][575]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.09.11-08.46.51:321][575]LogContentBrowser: Creating deferred item: NewFolder
+[2025.09.11-08.46.51:339][576]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.09.11-08.46.53:464][737]LogContentBrowser: Attempting asset rename: NewFolder -> EVE
+[2025.09.11-08.46.53:465][737]LogContentBrowser: End creating deferred item NewFolder
+[2025.09.11-08.47.06:307][684]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2025.09.11-08.47.06:320][684]LogContentBrowser: Creating deferred item: NewInputAction
+[2025.09.11-08.47.06:389][686]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2025.09.11-08.47.23:918][164]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_EVE_Move
+[2025.09.11-08.47.23:919][164]LogContentBrowser: End creating deferred item NewInputAction
+[2025.09.11-08.47.34:646][940]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2025.09.11-08.47.34:657][940]LogContentBrowser: Creating deferred item: NewInputAction
+[2025.09.11-08.47.34:674][941]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2025.09.11-08.48.02:904][254]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2036.754150
+[2025.09.11-08.48.03:159][275]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.11-08.48.03:159][275]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2036.996460, Update Interval: 313.152863
+[2025.09.11-08.48.08:644][727]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_EVE_LookUp
+[2025.09.11-08.48.08:645][727]LogContentBrowser: End creating deferred item NewInputAction
+[2025.09.11-08.48.12:505][ 17]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2025.09.11-08.48.12:517][ 17]LogContentBrowser: Creating deferred item: NewInputAction
+[2025.09.11-08.48.12:534][ 18]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2025.09.11-08.48.20:386][656]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_EVE_Turn
+[2025.09.11-08.48.20:387][656]LogContentBrowser: End creating deferred item NewInputAction
+[2025.09.11-08.48.53:406][234]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2025.09.11-08.48.53:415][234]LogContentBrowser: Creating deferred item: NewInputAction
+[2025.09.11-08.48.53:427][235]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2025.09.11-08.48.59:855][941]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_EVE_Run
+[2025.09.11-08.48.59:856][941]LogContentBrowser: End creating deferred item NewInputAction
+[2025.09.11-08.49.07:383][653]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2025.09.11-08.49.07:391][653]LogContentBrowser: Creating deferred item: NewInputAction
+[2025.09.11-08.49.07:404][654]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2025.09.11-08.49.29:025][ 72]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_EVE_Jump
+[2025.09.11-08.49.29:026][ 72]LogContentBrowser: End creating deferred item NewInputAction
+[2025.09.11-08.49.31:761][376]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/Input/EVE/IA_EVE_Jump.IA_EVE_Jump
+[2025.09.11-08.49.39:172][ 27]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/Input/EVE/IA_EVE_LookUp.IA_EVE_LookUp
+[2025.09.11-08.50.02:609][491]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.11-08.50.02:647][491]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/EVE/IA_EVE_LookUp] ([1] browsable assets)...
+[2025.09.11-08.50.02:647][491]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/EVE/IA_EVE_LookUp]
+[2025.09.11-08.50.02:647][491]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/EVE/IA_EVE_LookUp" FILE="../../../../Unreal5.6/DustellarFighterProject/DustellarProject/Content/Input/EVE/IA_EVE_LookUp.uasset" SILENT=true
+[2025.09.11-08.50.02:660][491]LogSavePackage: Moving output files for package: /Game/Input/EVE/IA_EVE_LookUp
+[2025.09.11-08.50.02:660][491]LogSavePackage: Moving '../../../../Unreal5.6/DustellarFighterProject/DustellarProject/Saved/IA_EVE_LookUp37E178DE4387C9009AF09DA02A7EF11D.tmp' to '../../../../Unreal5.6/DustellarFighterProject/DustellarProject/Content/Input/EVE/IA_EVE_LookUp.uasset'
+[2025.09.11-08.50.02:672][491]LogFileHelpers: InternalPromptForCheckoutAndSave took 62.444 ms (total: 164.231 ms)
+[2025.09.11-08.50.02:713][491]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.11-08.50.02:713][491]LogContentValidation: Enabled validators:
+[2025.09.11-08.50.02:713][491]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.11-08.50.02:713][491]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.11-08.50.02:714][491]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.11-08.50.02:714][491]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.11-08.50.02:714][491]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.11-08.50.02:714][491]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.11-08.50.02:714][491]AssetCheck: /Game/Input/EVE/IA_EVE_LookUp Validating asset
+[2025.09.11-08.50.02:740][491]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../Unreal5.6/DustellarFighterProject/DustellarProject/Saved/SourceControl/UncontrolledChangelists.json
+[2025.09.11-08.50.10:021][150]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/Input/EVE/IA_EVE_Turn.IA_EVE_Turn
+[2025.09.11-08.50.14:468][583]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.11-08.50.14:538][583]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/EVE/IA_EVE_Turn] ([1] browsable assets)...
+[2025.09.11-08.50.14:538][583]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/EVE/IA_EVE_Turn]
+[2025.09.11-08.50.14:538][583]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/EVE/IA_EVE_Turn" FILE="../../../../Unreal5.6/DustellarFighterProject/DustellarProject/Content/Input/EVE/IA_EVE_Turn.uasset" SILENT=true
+[2025.09.11-08.50.14:558][583]LogSavePackage: Moving output files for package: /Game/Input/EVE/IA_EVE_Turn
+[2025.09.11-08.50.14:558][583]LogSavePackage: Moving '../../../../Unreal5.6/DustellarFighterProject/DustellarProject/Saved/IA_EVE_Turn061A87514C2AADD76738F1BF3F181BC5.tmp' to '../../../../Unreal5.6/DustellarFighterProject/DustellarProject/Content/Input/EVE/IA_EVE_Turn.uasset'
+[2025.09.11-08.50.14:568][583]LogFileHelpers: InternalPromptForCheckoutAndSave took 99.583 ms (total: 263.814 ms)
+[2025.09.11-08.50.14:632][583]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.11-08.50.14:632][583]LogContentValidation: Enabled validators:
+[2025.09.11-08.50.14:632][583]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.11-08.50.14:632][583]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.11-08.50.14:632][583]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.11-08.50.14:632][583]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.11-08.50.14:632][583]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.11-08.50.14:632][583]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.11-08.50.14:632][583]AssetCheck: /Game/Input/EVE/IA_EVE_Turn Validating asset
+[2025.09.11-08.50.14:657][583]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../Unreal5.6/DustellarFighterProject/DustellarProject/Saved/SourceControl/UncontrolledChangelists.json
+[2025.09.11-08.50.18:629][934]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/Input/EVE/IA_EVE_Move.IA_EVE_Move
+[2025.09.11-08.50.22:029][249]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.11-08.50.22:067][249]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/EVE/IA_EVE_Move] ([1] browsable assets)...
+[2025.09.11-08.50.22:067][249]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/EVE/IA_EVE_Move]
+[2025.09.11-08.50.22:067][249]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/EVE/IA_EVE_Move" FILE="../../../../Unreal5.6/DustellarFighterProject/DustellarProject/Content/Input/EVE/IA_EVE_Move.uasset" SILENT=true
+[2025.09.11-08.50.22:077][249]LogSavePackage: Moving output files for package: /Game/Input/EVE/IA_EVE_Move
+[2025.09.11-08.50.22:077][249]LogSavePackage: Moving '../../../../Unreal5.6/DustellarFighterProject/DustellarProject/Saved/IA_EVE_Move15CE273E4E38DC786E1B03B7E6F10E25.tmp' to '../../../../Unreal5.6/DustellarFighterProject/DustellarProject/Content/Input/EVE/IA_EVE_Move.uasset'
+[2025.09.11-08.50.22:101][249]LogFileHelpers: InternalPromptForCheckoutAndSave took 71.900 ms (total: 335.715 ms)
+[2025.09.11-08.50.22:132][249]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.11-08.50.22:132][249]LogContentValidation: Enabled validators:
+[2025.09.11-08.50.22:132][249]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.11-08.50.22:132][249]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.11-08.50.22:132][249]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.11-08.50.22:132][249]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.11-08.50.22:132][249]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.11-08.50.22:132][249]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.11-08.50.22:133][249]AssetCheck: /Game/Input/EVE/IA_EVE_Move Validating asset
+[2025.09.11-08.50.22:152][249]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../Unreal5.6/DustellarFighterProject/DustellarProject/Saved/SourceControl/UncontrolledChangelists.json
+[2025.09.11-08.50.26:204][616]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/Input/EVE/IA_EVE_Run.IA_EVE_Run
+[2025.09.11-08.50.41:587][878]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/Input/IMC_EVE.IMC_EVE
+[2025.09.11-08.51.15:753][195]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.09.11-08.51.15:758][195]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DevelopersFolder/MainDevelopMap' took 0.207
+[2025.09.11-08.51.15:760][195]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/IMC_EVE] ([1] browsable assets)...
+[2025.09.11-08.51.15:760][195]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/IMC_EVE]
+[2025.09.11-08.51.15:760][195]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/IMC_EVE" FILE="../../../../Unreal5.6/DustellarFighterProject/DustellarProject/Saved/Autosaves/Game/Input/IMC_EVE_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2025.09.11-08.51.15:771][195]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Input/IMC_EVE_Auto2
+[2025.09.11-08.51.15:771][195]LogSavePackage: Moving '../../../../Unreal5.6/DustellarFighterProject/DustellarProject/Saved/IMC_EVE_Auto2F1E479044F8DDC4A8F1F9BAD5D82B85B.tmp' to '../../../../Unreal5.6/DustellarFighterProject/DustellarProject/Saved/Autosaves/Game/Input/IMC_EVE_Auto2.uasset'
+[2025.09.11-08.51.15:772][195]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/EVE/IA_EVE_Run] ([1] browsable assets)...
+[2025.09.11-08.51.15:772][195]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/EVE/IA_EVE_Run]
+[2025.09.11-08.51.15:781][195]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Input/EVE/IA_EVE_Run_Auto2
+[2025.09.11-08.51.15:781][195]LogSavePackage: Moving '../../../../Unreal5.6/DustellarFighterProject/DustellarProject/Saved/IA_EVE_Run_Auto2F4BCD4F6429DC4115FF6319371E7BB1D.tmp' to '../../../../Unreal5.6/DustellarFighterProject/DustellarProject/Saved/Autosaves/Game/Input/EVE/IA_EVE_Run_Auto2.uasset'
+[2025.09.11-08.51.15:782][195]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/EVE/IA_EVE_Jump] ([1] browsable assets)...
+[2025.09.11-08.51.15:782][195]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/EVE/IA_EVE_Jump]
+[2025.09.11-08.51.15:789][195]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Input/EVE/IA_EVE_Jump_Auto2
+[2025.09.11-08.51.15:789][195]LogSavePackage: Moving '../../../../Unreal5.6/DustellarFighterProject/DustellarProject/Saved/IA_EVE_Jump_Auto220B31D174F4C964ED6DF9CB638FC2DDE.tmp' to '../../../../Unreal5.6/DustellarFighterProject/DustellarProject/Saved/Autosaves/Game/Input/EVE/IA_EVE_Jump_Auto2.uasset'
+[2025.09.11-08.51.15:790][195]LogFileHelpers: Auto-saving content packages took 0.031
+[2025.09.11-08.53.59:923][427]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2393.767822
+[2025.09.11-08.54.00:171][451]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.11-08.54.00:171][451]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2394.003662, Update Interval: 338.704193
+[2025.09.11-08.56.46:572][432]LogEditCondition: Error: EnhancedActionKeyMapping - EditCondition attempted to use an invalid operand "SettingBehavior" (value error).
+[2025.09.11-08.59.05:001][252]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.11-08.59.05:049][252]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/IMC_EVE] ([1] browsable assets)...
+[2025.09.11-08.59.05:049][252]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/IMC_EVE]
+[2025.09.11-08.59.05:050][252]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/IMC_EVE" FILE="../../../../Unreal5.6/DustellarFighterProject/DustellarProject/Content/Input/IMC_EVE.uasset" SILENT=true
+[2025.09.11-08.59.05:063][252]LogSavePackage: Moving output files for package: /Game/Input/IMC_EVE
+[2025.09.11-08.59.05:064][252]LogSavePackage: Moving '../../../../Unreal5.6/DustellarFighterProject/DustellarProject/Saved/IMC_EVE6AA5045542EE6950E3C33A8DA6918086.tmp' to '../../../../Unreal5.6/DustellarFighterProject/DustellarProject/Content/Input/IMC_EVE.uasset'
+[2025.09.11-08.59.05:074][252]LogFileHelpers: InternalPromptForCheckoutAndSave took 73.420 ms (total: 409.136 ms)
+[2025.09.11-08.59.05:136][252]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.11-08.59.05:136][252]LogContentValidation: Enabled validators:
+[2025.09.11-08.59.05:136][252]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.11-08.59.05:136][252]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.11-08.59.05:136][252]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.11-08.59.05:136][252]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.11-08.59.05:136][252]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.11-08.59.05:136][252]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.11-08.59.05:137][252]AssetCheck: /Game/Input/IMC_EVE Validating asset
+[2025.09.11-08.59.47:284][471]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.09.11-08.59.48:478][535]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.11-08.59.48:511][535]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_EVE] ([2] browsable assets)...
+[2025.09.11-08.59.48:548][535]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_EVE.BP_EVE]
+[2025.09.11-08.59.48:548][535]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_EVE]
+[2025.09.11-08.59.48:548][535]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_EVE" FILE="../../../../Unreal5.6/DustellarFighterProject/DustellarProject/Content/ThirdPerson/Blueprints/BP_EVE.uasset" SILENT=true
+[2025.09.11-08.59.48:561][535]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_EVE
+[2025.09.11-08.59.48:561][535]LogSavePackage: Moving '../../../../Unreal5.6/DustellarFighterProject/DustellarProject/Saved/BP_EVE6065DFBB4D6175B40E20F59FD9741DA6.tmp' to '../../../../Unreal5.6/DustellarFighterProject/DustellarProject/Content/ThirdPerson/Blueprints/BP_EVE.uasset'
+[2025.09.11-08.59.48:569][535]LogFileHelpers: InternalPromptForCheckoutAndSave took 90.667 ms (total: 499.803 ms)
+[2025.09.11-08.59.48:630][535]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.11-08.59.48:630][535]LogContentValidation: Enabled validators:
+[2025.09.11-08.59.48:630][535]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.11-08.59.48:630][535]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.11-08.59.48:630][535]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.11-08.59.48:630][535]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.11-08.59.48:630][535]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.11-08.59.48:630][535]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.11-08.59.48:630][535]AssetCheck: /Game/ThirdPerson/Blueprints/BP_EVE Validating asset
+[2025.09.11-08.59.51:121][753]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.11-08.59.51:127][753]LogContentBundle: [MainDevelopMap(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.09.11-08.59.51:127][753]LogWorldPartition: Display: GenerateStreaming for 'MainDevelopMap' started...
+[2025.09.11-08.59.51:128][753]LogWorldPartition: Display: GenerateStreaming for 'MainDevelopMap' took 935 us
+[2025.09.11-08.59.51:129][753]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.11-08.59.51:134][753]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.09.11-08.59.51:134][753]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.09.11-08.59.51:134][753]LogPlayLevel: Creating play world package: /Game/DevelopersFolder/UEDPIE_0_MainDevelopMap
+[2025.09.11-08.59.51:140][753]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.09.11-08.59.51:141][753]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.097 ms
+[2025.09.11-08.59.51:141][753]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006781s)
+[2025.09.11-08.59.51:141][753]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DevelopersFolder/MainDevelopMap.MainDevelopMap to /Game/DevelopersFolder/UEDPIE_0_MainDevelopMap.MainDevelopMap (0.006831s)
+[2025.09.11-08.59.51:163][753]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.09.11-08.59.51:173][753]LogChaosDD: Creating Chaos Debug Draw Scene for world MainDevelopMap
+[2025.09.11-08.59.51:174][753]LogWorldPartition: ULevel::OnLevelLoaded(MainDevelopMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.09.11-08.59.51:174][753]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.09.11-08.59.51:174][753]LogWorldPartition: UWorldPartition::Initialize : World = /Game/DevelopersFolder/UEDPIE_0_MainDevelopMap.MainDevelopMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.09.11-08.59.51:174][753]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.09.11-08.59.51:175][753]LogWorldPartition: Display: WorldPartition initialize took 1.358 ms (total: 101.365 ms)
+[2025.09.11-08.59.51:176][753]LogPlayLevel: PIE: World Init took: (0.003073s)
+[2025.09.11-08.59.51:176][753]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.09.11-08.59.51:176][753]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.11-08.59.51:176][753]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.11-08.59.51:176][753]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.11-08.59.51:176][753]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.11-08.59.51:176][753]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.11-08.59.51:176][753]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.11-08.59.51:176][753]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.11-08.59.51:176][753]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.11-08.59.51:176][753]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.11-08.59.51:176][753]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.11-08.59.51:176][753]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.11-08.59.51:179][753]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.11-08.59.51:199][753]LogAudioMixer: Display: Using Audio Hardware Device Unknown
+[2025.09.11-08.59.51:200][753]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.11-08.59.51:200][753]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.11-08.59.51:200][753]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.11-08.59.51:200][753]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.09.11-08.59.51:200][753]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=2
+[2025.09.11-08.59.51:200][753]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.09.11-08.59.51:200][753]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=8736
+[2025.09.11-08.59.51:200][753]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=2
+[2025.09.11-08.59.51:203][753]LogInit: FAudioDevice initialized with ID 2.
+[2025.09.11-08.59.51:203][753]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.09.11-08.59.51:203][753]LogAudio: Display: Audio Device (ID: 2) registered with world 'MainDevelopMap'.
+[2025.09.11-08.59.51:203][753]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.09.11-08.59.51:207][753]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.09.11-08.59.51:210][753]LogWorld: Bringing World /Game/DevelopersFolder/UEDPIE_0_MainDevelopMap.MainDevelopMap up for play (max tick rate 0) at 2025.09.11-17.59.51
+[2025.09.11-08.59.51:211][753]LogWorld: Bringing up level for play took: 0.003374
+[2025.09.11-08.59.51:213][753]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2025.09.11-08.59.51:241][753]PIE: Server logged in
+[2025.09.11-08.59.51:243][753]PIE: Play in editor total start time 0.116 seconds.
+[2025.09.11-08.59.51:309][754]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.11-09.00.23:650][295]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.11-09.00.23:650][295]LogWorld: BeginTearingDown for /Game/DevelopersFolder/UEDPIE_0_MainDevelopMap
+[2025.09.11-09.00.23:651][295]LogWorld: UWorld::CleanupWorld for MainDevelopMap, bSessionEnded=true, bCleanupResources=true
+[2025.09.11-09.00.23:652][295]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.11-09.00.23:652][295]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/DevelopersFolder/UEDPIE_0_MainDevelopMap.MainDevelopMap
+[2025.09.11-09.00.23:654][295]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.11-09.00.23:659][295]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.11-09.00.23:683][295]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.11-09.00.23:683][295]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.09.11-09.00.23:684][295]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=4
+[2025.09.11-09.00.23:685][295]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=2
+[2025.09.11-09.00.23:685][295]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=2
+[2025.09.11-09.00.23:692][295]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.09.11-09.00.23:755][296]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2025.09.11-09.00.32:319][453]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2786.161621
+[2025.09.11-09.00.33:320][456]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.11-09.00.33:320][456]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2786.832275, Update Interval: 312.001099

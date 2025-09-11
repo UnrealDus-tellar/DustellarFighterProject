@@ -89,7 +89,7 @@ void AEVE::BeginPlay()
 		auto subsystem = ULocalPlayer::GetSubsystem<UEnhancedInputLocalPlayerSubsystem>(pc->GetLocalPlayer());
 		if (subsystem)
 		{
-			subsystem->AddMappingContext(imc_TPS, 0);
+			subsystem->AddMappingContext(imc_EVE, 0);
 		}
 	}
 
