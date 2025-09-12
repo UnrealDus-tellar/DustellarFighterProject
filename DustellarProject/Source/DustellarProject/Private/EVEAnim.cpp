@@ -23,4 +23,10 @@ void UEVEAnim::NativeUpdateAnimation(float DeltaSeconds)
 		//5.speed에 값(내적) 할당하기
 		speed = FVector::DotProduct(forwardVector, velocity);
 	}
+	//APawn* OwnerPawn = TryGetPawnOwner();
+	//if (!OwnerPawn) return;
+
+	//// 속도 계산
+	//FVector Velocity = OwnerPawn->GetVelocity();
+	//speed = Velocity.Size2D();
 }

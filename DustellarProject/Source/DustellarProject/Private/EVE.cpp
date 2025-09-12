@@ -49,6 +49,9 @@ AEVE::AEVE()
 	tpsCamComp->bUsePawnControlRotation = false;
 	bUseControllerRotationYaw = true;
 
+	GetCharacterMovement()->bOrientRotationToMovement = true;//################
+	
+
 	//@@컴포넌트 붙이는곳####################################################
 	//@@생성자에 컴포넌트 달아주기
 	//@@스탯컴포넌트
@@ -137,6 +140,31 @@ void AEVE::Tick(float DeltaTime)
 	AddMovementInput(direction);
 	//@@방향초기화
 	direction = FVector::ZeroVector;
+
+	FRotator ControlRot = Controller->GetControlRotation();
+	FRotator YawRot(0, ControlRot.Yaw, 0);
+
+	FVector ForwardDir = FRotationMatrix(YawRot).GetUnitAxis(EAxis::X);
+	FVector RightDir = FRotationMatrix(YawRot).GetUnitAxis(EAxis::Y);
+
+	//float ForwardValue = GetInputAxisValue("MoveForward");
+	//float RightValue = GetInputAxisValue("MoveRight");
+
+	//FVector MoveDir = FVector(ForwardValue, RightValue, 0.f);
+
+	//if (!MoveDir.IsNearlyZero())
+	//{
+	//	MoveDir.Normalize();
+
+	//	// 이동 방향을 회전으로 변환
+	//	FRotator TargetRot = MoveDir.Rotation();
+	//	TargetRot.Pitch = 0.f;
+	//	TargetRot.Roll = 0.f;
+
+	//	// 부드럽게 보간 회전 (10.f = 회전속도)
+	//	FRotator NewRot = FMath::RInterpTo(GetActorRotation(), TargetRot, DeltaTime, 10.f);
+	//	SetActorRotation(NewRot);
+	//}
 
 }
 
