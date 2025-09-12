@@ -10,6 +10,7 @@
 #include "C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Source/DustellarProject/Private/Component/StatComponent.cpp"
 #include "C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Source/DustellarProject/Private/EnemyCharacter.cpp"
 #include "C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Source/DustellarProject/Private/EVE.cpp"
+#include "C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Source/DustellarProject/Private/EVEGameModeBase.cpp"
 #include "C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Source/DustellarProject/Private/Scarlett.cpp"
 #include "C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Source/DustellarProject/Private/ScarlettAnim.cpp"
 #include "C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Source/DustellarProject/Private/ScarlettFSM.cpp"

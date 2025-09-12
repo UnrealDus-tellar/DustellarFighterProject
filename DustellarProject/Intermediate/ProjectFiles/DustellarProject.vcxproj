@@ -626,6 +626,11 @@
       <ForcedIncludeFiles>$(ClCompile_ForcedIncludeFiles_2)</ForcedIncludeFiles>
       <AdditionalOptions>$(ClCompile_AdditionalOptions_1)</AdditionalOptions>
     </ClCompile>
+    <ClCompile Include="..\..\Source\DustellarProject\Private\EVEAnim.cpp">
+      <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories_2)</AdditionalIncludeDirectories>
+      <ForcedIncludeFiles>$(ClCompile_ForcedIncludeFiles_2)</ForcedIncludeFiles>
+      <AdditionalOptions>$(ClCompile_AdditionalOptions_1)</AdditionalOptions>
+    </ClCompile>
     <ClCompile Include="..\..\Source\DustellarProject\Private\EVEGameModeBase.cpp">
       <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories_2)</AdditionalIncludeDirectories>
       <ForcedIncludeFiles>$(ClCompile_ForcedIncludeFiles_2)</ForcedIncludeFiles>
@@ -668,6 +673,7 @@
     </ClCompile>
     <ClInclude Include="..\..\Source\DustellarProject\Public\EnemyCharacter.h"/>
     <ClInclude Include="..\..\Source\DustellarProject\Public\EVE.h"/>
+    <ClInclude Include="..\..\Source\DustellarProject\Public\EVEAnim.h"/>
     <ClInclude Include="..\..\Source\DustellarProject\Public\EVEGameModeBase.h"/>
     <ClInclude Include="..\..\Source\DustellarProject\Public\Scarlett.h"/>
     <ClInclude Include="..\..\Source\DustellarProject\Public\ScarlettAnim.h"/>

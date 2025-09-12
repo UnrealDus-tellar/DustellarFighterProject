@@ -29,6 +29,17 @@
 				"C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Content/Input/EVE/IA_EVE_Turn.uasset",
 				"C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Content/Input/EVE/IA_EVE_Move.uasset",
 				"C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Content/ThirdPerson/Blueprints/BP_EVEGameModeBase.uasset",
+				"C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Content/Variant_Combat/Anims/ABP_Manny_Combat.uasset",
+				"C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Content/Variant_SideScrolling/Anims/ABP_Manny_SideScroller.uasset",
+				"C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Content/Input/EVE/IA_EVE_Jump.uasset",
+				"C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Content/Input/EVE/IA_EVE_LeftAttack.uasset",
+				"C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Content/Input/EVE/IA_EVE_RightAttack.uasset",
+				"C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Content/Input/EVE/IA_EVE_Run.uasset",
+				"C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Content/ThirdPerson/BP_EnemyCharacter.uasset",
+				"C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Content/ThirdPerson/anim/SKM_Manny_Skeleton.uasset",
+				"C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Content/ThirdPerson/Blueprints/ABP_EVE.uasset",
+				"C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Content/ThirdPerson/anim/Standard_Walk_Anim1.uasset",
+				"C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Content/ThirdPerson/anim/Standard_Walk_Anim1_Montage.uasset",
 				"C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Content/__ExternalActors__/DevelopersFolder/MainDevelopMap/A/J3/8CUEKMSV75FWBY4E2PVDSP.uasset"
 			]
 		}

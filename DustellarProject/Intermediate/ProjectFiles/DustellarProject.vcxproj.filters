@@ -166,6 +166,9 @@
     <ClCompile Include="..\..\Source\DustellarProject\Private\EVE.cpp">
       <Filter>Source\DustellarProject\Private</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\Source\DustellarProject\Private\EVEAnim.cpp">
+      <Filter>Source\DustellarProject\Private</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\Source\DustellarProject\Private\EVEGameModeBase.cpp">
       <Filter>Source\DustellarProject\Private</Filter>
     </ClCompile>
@@ -200,6 +203,9 @@
       <Filter>Source\DustellarProject\Public</Filter>
     </ClInclude>
     <ClInclude Include="..\..\Source\DustellarProject\Public\EVE.h">
+      <Filter>Source\DustellarProject\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\DustellarProject\Public\EVEAnim.h">
       <Filter>Source\DustellarProject\Public</Filter>
     </ClInclude>
     <ClInclude Include="..\..\Source\DustellarProject\Public\EVEGameModeBase.h">

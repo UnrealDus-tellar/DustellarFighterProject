@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DustellarProjectModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c44de543e40b5dd5c55b1e8c94f9d6ce4a9a403")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+adf063e1cb2744a68d95650174ddb5b33d9d2336")]
 [assembly: System.Reflection.AssemblyProductAttribute("DustellarProjectModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DustellarProjectModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

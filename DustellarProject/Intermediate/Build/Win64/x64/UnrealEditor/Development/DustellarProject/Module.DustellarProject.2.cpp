@@ -5,6 +5,7 @@
 #include "C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Intermediate/Build/Win64/UnrealEditor/Inc/DustellarProject/UHT/EnemyCharacter.gen.cpp"
 #include "C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Intermediate/Build/Win64/UnrealEditor/Inc/DustellarProject/UHT/EnvQueryContext_Player.gen.cpp"
 #include "C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Intermediate/Build/Win64/UnrealEditor/Inc/DustellarProject/UHT/EVE.gen.cpp"
+#include "C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Intermediate/Build/Win64/UnrealEditor/Inc/DustellarProject/UHT/EVEAnim.gen.cpp"
 #include "C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Intermediate/Build/Win64/UnrealEditor/Inc/DustellarProject/UHT/EVEGameModeBase.gen.cpp"
 #include "C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Intermediate/Build/Win64/UnrealEditor/Inc/DustellarProject/UHT/PlatformingCharacter.gen.cpp"
 #include "C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Intermediate/Build/Win64/UnrealEditor/Inc/DustellarProject/UHT/PlatformingGameMode.gen.cpp"
@@ -25,4 +26,3 @@
 #include "C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Intermediate/Build/Win64/UnrealEditor/Inc/DustellarProject/UHT/SideScrollingPickup.gen.cpp"
 #include "C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Intermediate/Build/Win64/UnrealEditor/Inc/DustellarProject/UHT/SideScrollingPlayerController.gen.cpp"
 #include "C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Intermediate/Build/Win64/UnrealEditor/Inc/DustellarProject/UHT/SideScrollingSoftPlatform.gen.cpp"
-#include "C:/Users/user/Documents/Unreal5.6/DustellarFighterProject/DustellarProject/Intermediate/Build/Win64/UnrealEditor/Inc/DustellarProject/UHT/SideScrollingStateTreeUtility.gen.cpp"
