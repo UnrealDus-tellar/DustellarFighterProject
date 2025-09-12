@@ -73,8 +73,31 @@ struct Z_Construct_UClass_UEVEAnim_Statics
 		{ "ToolTip", "@@\xef\xbf\xbd\xc3\xb7\xef\xbf\xbd\xef\xbf\xbd\xcc\xbe\xef\xbf\xbd \xef\xbf\xbd\xcc\xb5\xef\xbf\xbd\xef\xbf\xbd\xd3\xb5\xef\xbf\xbd" },
 #endif
 	};
+	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_direction_MetaData[] = {
+		{ "Category", "EVEAnim" },
+#if !UE_BUILD_SHIPPING
+		{ "Comment", "//@@\xef\xbf\xbd\xc3\xb7\xef\xbf\xbd\xef\xbf\xbd\xcc\xbe\xef\xbf\xbd \xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\n" },
+#endif
+		{ "ModuleRelativePath", "Public/EVEAnim.h" },
+#if !UE_BUILD_SHIPPING
+		{ "ToolTip", "@@\xef\xbf\xbd\xc3\xb7\xef\xbf\xbd\xef\xbf\xbd\xcc\xbe\xef\xbf\xbd \xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd" },
+#endif
+	};
+	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_isInAir_MetaData[] = {
+		{ "Category", "EVEAnim" },
+#if !UE_BUILD_SHIPPING
+		{ "Comment", "//@@\xef\xbf\xbd\xc3\xb7\xef\xbf\xbd\xef\xbf\xbd\xcc\xbe\xee\xb0\xa1 \xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xdf\xbf\xef\xbf\xbd \xef\xbf\xbd\xd6\xb4\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd \xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\n" },
+#endif
+		{ "ModuleRelativePath", "Public/EVEAnim.h" },
+#if !UE_BUILD_SHIPPING
+		{ "ToolTip", "@@\xef\xbf\xbd\xc3\xb7\xef\xbf\xbd\xef\xbf\xbd\xcc\xbe\xee\xb0\xa1 \xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xdf\xbf\xef\xbf\xbd \xef\xbf\xbd\xd6\xb4\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd \xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd" },
+#endif
+	};
 #endif // WITH_METADATA
 	static const UECodeGen_Private::FFloatPropertyParams NewProp_speed;
+	static const UECodeGen_Private::FFloatPropertyParams NewProp_direction;
+	static void NewProp_isInAir_SetBit(void* Obj);
+	static const UECodeGen_Private::FBoolPropertyParams NewProp_isInAir;
 	static const UECodeGen_Private::FPropertyParamsBase* const PropPointers[];
 	static UObject* (*const DependentSingletons[])();
 	static constexpr FCppClassTypeInfoStatic StaticCppClassTypeInfo = {
@@ -83,8 +106,16 @@ struct Z_Construct_UClass_UEVEAnim_Statics
 	static const UECodeGen_Private::FClassParams ClassParams;
 };
 const UECodeGen_Private::FFloatPropertyParams Z_Construct_UClass_UEVEAnim_Statics::NewProp_speed = { "speed", nullptr, (EPropertyFlags)0x0010000000010005, UECodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(UEVEAnim, speed), METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_speed_MetaData), NewProp_speed_MetaData) };
+const UECodeGen_Private::FFloatPropertyParams Z_Construct_UClass_UEVEAnim_Statics::NewProp_direction = { "direction", nullptr, (EPropertyFlags)0x0010000000010005, UECodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(UEVEAnim, direction), METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_direction_MetaData), NewProp_direction_MetaData) };
+void Z_Construct_UClass_UEVEAnim_Statics::NewProp_isInAir_SetBit(void* Obj)
+{
+	((UEVEAnim*)Obj)->isInAir = 1;
+}
+const UECodeGen_Private::FBoolPropertyParams Z_Construct_UClass_UEVEAnim_Statics::NewProp_isInAir = { "isInAir", nullptr, (EPropertyFlags)0x0010000000010005, UECodeGen_Private::EPropertyGenFlags::Bool | UECodeGen_Private::EPropertyGenFlags::NativeBool, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, sizeof(bool), sizeof(UEVEAnim), &Z_Construct_UClass_UEVEAnim_Statics::NewProp_isInAir_SetBit, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_isInAir_MetaData), NewProp_isInAir_MetaData) };
 const UECodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_UEVEAnim_Statics::PropPointers[] = {
 	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UEVEAnim_Statics::NewProp_speed,
+	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UEVEAnim_Statics::NewProp_direction,
+	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UEVEAnim_Statics::NewProp_isInAir,
 };
 static_assert(UE_ARRAY_COUNT(Z_Construct_UClass_UEVEAnim_Statics::PropPointers) < 2048);
 UObject* (*const Z_Construct_UClass_UEVEAnim_Statics::DependentSingletons[])() = {
@@ -124,10 +155,10 @@ UEVEAnim::~UEVEAnim() {}
 struct Z_CompiledInDeferFile_FID_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Public_EVEAnim_h__Script_DustellarProject_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
-		{ Z_Construct_UClass_UEVEAnim, UEVEAnim::StaticClass, TEXT("UEVEAnim"), &Z_Registration_Info_UClass_UEVEAnim, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UEVEAnim), 74109602U) },
+		{ Z_Construct_UClass_UEVEAnim, UEVEAnim::StaticClass, TEXT("UEVEAnim"), &Z_Registration_Info_UClass_UEVEAnim, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UEVEAnim), 2745875950U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Public_EVEAnim_h__Script_DustellarProject_261433897(TEXT("/Script/DustellarProject"),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Public_EVEAnim_h__Script_DustellarProject_2987243986(TEXT("/Script/DustellarProject"),
 	Z_CompiledInDeferFile_FID_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Public_EVEAnim_h__Script_DustellarProject_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Unreal5_6_DustellarFighterProject_DustellarProject_Source_DustellarProject_Public_EVEAnim_h__Script_DustellarProject_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
